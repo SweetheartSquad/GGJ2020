@@ -155,8 +155,8 @@
 		"img": ""
 	},
 	{
-		"title": "Conflict management skills",
-		"description": "",
+		"title": "Conflict resolution skills",
+		"description": ".",
 		"img": ""
 	},
 	{
@@ -196,17 +196,17 @@
 	},
 	{
 		"title": "Auger",
-		"description": "An auger is a drilling device, or drill bit, used for making holes in wood or in the ground. It usually includes a rotating helical screw blade called a 'flighting' to act as a screw conveyor to remove the drilled out material.",
-		"img": ""
-	},
-	{
-		"title": "Awl",
-		"description": "",
+		"description": "It's a drilling device used for making holes in wood or in the ground. It usually includes a rotating helical screw blade called a 'flighting' to act as a screw conveyor... Hello? Are you still there?",
 		"img": ""
 	},
 	{
 		"title": "Wire stripper",
-		"description": "",
+		"description": "Good for stripping insulation off of wires. Not so good for other types of stripping.",
+		"img": ""
+	},
+  {
+		"title": "Awl",
+		"description": "A pointed tool for boring holes. Not for use with exciting holes.",
 		"img": ""
 	}
 ]
