@@ -6,7 +6,7 @@ import { problems, solutions } from './cards';
 function makeCard(cardDef, idx) {
 	const card = document.createElement('div');
 	card.className = 'card';
-	card.style.backgroundImage = `url(${cardDef.img ? `./images/${cardDef.img}` : `https://www.placecage.com/${idx+250}/${idx+350})`}`;
+	card.style.backgroundImage = `url("${cardDef.img ? `./images/${cardDef.img}` : `https://www.placecage.com/${idx+250}/${idx+350}")`}`;
 
 	const title = document.createElement('div');
 	title.className = "card-title";

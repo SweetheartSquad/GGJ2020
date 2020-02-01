@@ -97,7 +97,7 @@
 	{
 		"title": "Hot glue gun",
 		"description": "Hot and sticky. Just squeeze the trigger.",
-		"img": "hot glue gun"
+		"img": "hot glue gun.png"
 	},
 	{
 		"title": "Parachute",
@@ -137,7 +137,7 @@
 	{
 		"title": "A contractor",
 		"description": "Plumbling, construction, whatever you need.",
-		"img": "contractor"
+		"img": "contractor.png"
 	},
 	{
 		"title": "Common sense",
@@ -177,12 +177,12 @@
 	{
 		"title": "A Macbook Pro",
 		"description": "It's expensive, but it works. Sometimes.",
-		"img": "macbook pro"
+		"img": "macbook pro.png"
 	},
 	{
 		"title": "Key to the city",
 		"description": "This is really going to open doors for you.",
-		"img": "key to the city"
+		"img": "key to the city.png"
 	},
 	{
 		"title": "A bird's eye view",
