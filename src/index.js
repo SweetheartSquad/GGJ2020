@@ -3,13 +3,13 @@ import './index.css';
 
 import { problems, solutions } from './cards';
 
-function makeCard(text) {
+function makeCard(cardDef) {
 	const card = document.createElement('div');
 	card.className = 'card';
 
 	const title = document.createElement('div');
 	title.className = "card-title";
-	title.textContent = text;
+	title.textContent = cardDef.title;
 	card.appendChild(title);
 
 	return card;
