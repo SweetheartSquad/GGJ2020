@@ -6,7 +6,12 @@ import { problems, solutions } from './cards';
 function makeCard(text) {
 	const card = document.createElement('div');
 	card.className = 'card';
-	card.textContent = text;
+
+	const title = document.createElement('div');
+	title.className = "card-title";
+	title.textContent = text;
+	card.appendChild(title);
+
 	return card;
 }
 
