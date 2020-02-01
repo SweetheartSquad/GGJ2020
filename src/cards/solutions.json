@@ -1,40 +1,154 @@
 [
-	"wrench",
-	"screwdriver",
-	"sledgehammer",
-	"pneumatic drill",
-	"chainsaw",
-	"flint and steel",
-	"blowtorch",
-	"a big pointy stick",
-	"a cool sword",
-	"bit of string",
-	"a couple of matches",
-	"bubblegum",
-	"duct tape",
-	"a shiny rock",
-	"a bottle of quality water-based lubricant",
-	"grindr",
-	"teeth",
-	"big strong muscles",
-	"stapler",
-	"hot glue gun",
-	"parachute",
-	"jaws of life",
-	"50ft rope",
-	"laser pointer",
-	"plastic explosive",
-	"a winning smile",
-	"the map to the treasure",
-	"a contracted repairman",
-	"common sense",
-	"a prize-winning pig",
-	"a flock of Canadian geese",
-	"conflict management skills",
-	"CPR certification",
-	"can-do attitude",
-	"back-talk",
-	"a macbook pro",
-	"key to the city",
-	"a bird's eye view"
+	{
+		"title": "wrench",
+		"description": ""
+	},
+	{
+		"title": "screwdriver",
+		"description": ""
+	},
+	{
+		"title": "sledgehammer",
+		"description": ""
+	},
+	{
+		"title": "pneumatic drill",
+		"description": ""
+	},
+	{
+		"title": "chainsaw",
+		"description": ""
+	},
+	{
+		"title": "flint and steel",
+		"description": ""
+	},
+	{
+		"title": "blowtorch",
+		"description": ""
+	},
+	{
+		"title": "a big pointy stick",
+		"description": ""
+	},
+	{
+		"title": "a cool sword",
+		"description": ""
+	},
+	{
+		"title": "bit of string",
+		"description": ""
+	},
+	{
+		"title": "a couple of matches",
+		"description": ""
+	},
+	{
+		"title": "bubblegum",
+		"description": ""
+	},
+	{
+		"title": "duct tape",
+		"description": ""
+	},
+	{
+		"title": "a shiny rock",
+		"description": ""
+	},
+	{
+		"title": "a bottle of quality water-based lubricant",
+		"description": ""
+	},
+	{
+		"title": "grindr",
+		"description": ""
+	},
+	{
+		"title": "teeth",
+		"description": ""
+	},
+	{
+		"title": "big strong muscles",
+		"description": ""
+	},
+	{
+		"title": "stapler",
+		"description": ""
+	},
+	{
+		"title": "hot glue gun",
+		"description": ""
+	},
+	{
+		"title": "parachute",
+		"description": ""
+	},
+	{
+		"title": "jaws of life",
+		"description": ""
+	},
+	{
+		"title": "50ft rope",
+		"description": ""
+	},
+	{
+		"title": "laser pointer",
+		"description": ""
+	},
+	{
+		"title": "plastic explosive",
+		"description": ""
+	},
+	{
+		"title": "a winning smile",
+		"description": ""
+	},
+	{
+		"title": "the map to the treasure",
+		"description": ""
+	},
+	{
+		"title": "a contracted repairman",
+		"description": ""
+	},
+	{
+		"title": "common sense",
+		"description": ""
+	},
+	{
+		"title": "a prize-winning pig",
+		"description": ""
+	},
+	{
+		"title": "a flock of Canadian geese",
+		"description": ""
+	},
+	{
+		"title": "conflict management skills",
+		"description": ""
+	},
+	{
+		"title": "CPR certification",
+		"description": ""
+	},
+	{
+		"title": "can-do attitude",
+		"description": ""
+	},
+	{
+		"title": "back-talk",
+		"description": ""
+	},
+	{
+		"title": "a macbook pro",
+		"description": ""
+	},
+	{
+		"title": "key to the city",
+		"description": ""
+	},
+	{
+		"title": "a bird's eye view",
+		"description": ""
+	}
 ]

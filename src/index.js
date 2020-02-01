@@ -12,6 +12,12 @@ function makeCard(cardDef) {
 	title.textContent = cardDef.title;
 	card.appendChild(title);
 
+	const img = document.createElement('div');
+	img.className = "card-image";
+	img.style.backgroundImage = "url(https://www.placecage.com/500/500)";
+	card.appendChild(img);
+
+
 	return card;
 }
 
