@@ -45,7 +45,7 @@
 		"img": ""
 	},
 	{
-		"title": "Bit of string",
+		"title": "A bit of string",
 		"description": "Twine, thread, yarn; you're not really sure. Probably found it in your pocket.",
 		"img": ""
 	},
@@ -76,12 +76,12 @@
 	},
 	{
 		"title": "Grindr",
-		"description": "",
+		"description": "Get it done, quick and dirty.",
 		"img": ""
 	},
 	{
 		"title": "Teeth",
-		"description": "[Dentist waiting room]\nMe,: [chanting] teeth, teeth-\nOther patients: teeth, TEETH\nSecretary: [pounding her clipboard] TEETH, TEETH, TEETH!",
+		"description": "TEETH, TEETH, TEETH, TEETH...!",
 		"img": ""
 	},
 	{
@@ -91,67 +91,67 @@
 	},
 	{
 		"title": "Stapler",
-		"description": "",
+		"description": "Works like stitches in a pinch.",
 		"img": ""
 	},
 	{
 		"title": "Hot glue gun",
-		"description": "",
+		"description": "Hot and sticky. Just squeeze the trigger.",
 		"img": ""
 	},
 	{
 		"title": "Parachute",
-		"description": "",
+		"description": "A big circle that keeps you alive.",
 		"img": ""
 	},
 	{
 		"title": "Jaws of life",
-		"description": "",
+		"description": "Like a metal pair of big beefy thighs.",
 		"img": ""
 	},
 	{
 		"title": "50ft rope",
-		"description": "",
+		"description": "Better than a 49ft rope.",
 		"img": ""
 	},
 	{
 		"title": "Laser pointer",
-		"description": "",
+		"description": "Originally engineered as a military weapon, this laser is now found in found in offices",
 		"img": ""
 	},
 	{
 		"title": "Plastic explosive",
-		"description": "",
+		"description": "One of Barbie's more controversial accessories.",
 		"img": ""
 	},
 	{
 		"title": "A winning smile",
-		"description": "",
+		"description": "Four out of five dentists recommend it.",
 		"img": ""
 	},
 	{
 		"title": "The map to the treasure",
-		"description": "",
+		"description": "It appears to be stained with grog.",
 		"img": ""
 	},
 	{
-		"title": "A contracted repairman",
-		"description": "",
+		"title": "A contracter",
+		"description": "Plumbling, construction, whatever you need.",
 		"img": ""
 	},
 	{
 		"title": "Common sense",
-		"description": "",
+		"description": "No description needed",
 		"img": ""
 	},
 	{
 		"title": "A prize-winning pig",
-		"description": "",
+		"description": "And the Grammy goes to...",
 		"img": ""
 	},
 	{
 		"title": "A flock of Canadian geese",
-		"description": "",
+		"description": "'Honk' means 'I love you' in Goose.",
 		"img": ""
 	},
 	{
@@ -161,37 +161,52 @@
 	},
 	{
 		"title": "CPR certification",
-		"description": "",
+		"description": "The legal way to punch someone in the chest.",
 		"img": ""
 	},
 	{
 		"title": "Can-do attitude",
-		"description": "",
+		"description": "Better than a can't-do attitude, am I right??",
 		"img": ""
 	},
 	{
 		"title": "Back-talk",
-		"description": "",
+		"description": "Usually this gets you IN to trouble",
 		"img": ""
 	},
 	{
-		"title": "A macbook pro",
-		"description": "",
+		"title": "A Macbook Pro",
+		"description": "It's expensive, but it works. Sometimes.",
 		"img": ""
 	},
 	{
 		"title": "Key to the city",
-		"description": "",
+		"description": "This is really going to open doors for you.",
 		"img": ""
 	},
 	{
 		"title": "A bird's eye view",
-		"description": "",
+		"description": "Sometimes you just need a little distance.",
 		"img": ""
 	},
 	{
 		"title": "A sufficiently good understanding of Photoshop",
 		"description": "If you're good enough, they won't even be able to tell from the pixels.",
+		"img": ""
+	},
+	{
+		"title": "Auger",
+		"description": "",
+		"img": ""
+	},
+	{
+		"title": "Awl",
+		"description": "",
+		"img": ""
+	},
+	{
+		"title": "Wire stripper",
+		"description": "",
 		"img": ""
 	}
 ]
