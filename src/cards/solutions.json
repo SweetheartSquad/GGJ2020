@@ -26,17 +26,17 @@
 	},
 	{
 		"title": "Flint and steel",
-		"description": "",
+		"description": "I am the firestarter.",
 		"img": ""
 	},
 	{
 		"title": "Blowtorch",
-		"description": "",
+		"description": "Keep away from eyes.",
 		"img": ""
 	},
 	{
 		"title": "A Big Pointy Stick",
-		"description": "It was ",
+		"description": "It was just lying by the side of the road, but now it's in your hands.",
 		"img": ""
 	},
 	{
@@ -46,32 +46,32 @@
 	},
 	{
 		"title": "Bit of string",
-		"description": "",
+		"description": "Twine, thread, yarn; you're not really sure. Probably found it in your pocket.",
 		"img": ""
 	},
 	{
 		"title": "A couple of matches",
-		"description": "",
+		"description": "They can burn twice as bright, or twice as long.",
 		"img": ""
 	},
 	{
 		"title": "Bubblegum",
-		"description": "",
+		"description": "I didn't come here to make friends, I came here to chew bubblegum.",
 		"img": ""
 	},
 	{
 		"title": "Duct tape",
-		"description": "",
+		"description": "Sticky and shiny.",
 		"img": ""
 	},
 	{
 		"title": "A shiny rock",
-		"description": "",
+		"description": "Ooh, pretty!",
 		"img": ""
 	},
 	{
 		"title": "A bottle of quality water-based lubricant",
-		"description": "",
+		"description": "What it says on the tin. Er, bottle.",
 		"img": ""
 	},
 	{
@@ -187,6 +187,11 @@
 	{
 		"title": "A bird's eye view",
 		"description": "",
+		"img": ""
+	},
+	{
+		"title": "A sufficiently good understanding of Photoshop",
+		"description": "If you're good enough, they won't even be able to tell from the pixels.",
 		"img": ""
 	}
 ]
