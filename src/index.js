@@ -17,6 +17,12 @@ function makeCard(cardDef) {
 	img.style.backgroundImage = "url(https://www.placecage.com/500/500)";
 	card.appendChild(img);
 
+	if(cardDef.description){
+		const description = document.createElement('div');
+		description.textContent = cardDef.description;
+		description.className = "card-description";
+		card.appendChild(description);
+	}
 
 	return card;
 }

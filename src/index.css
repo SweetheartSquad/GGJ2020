@@ -6,6 +6,8 @@ body{
     background-color: green;
     margin: 1px;
     border: solid 1px black;
+    display: flex;
+    flex-direction: column;
 }
 
 .card-title{
@@ -13,6 +15,11 @@ body{
     margin: 0.1in;
 }
 
+.card-description{
+    background-color: #0000FF;
+    height: 1.5in;
+    margin: 0.1in;
+}
 
 .card-image {
     margin: 0.1in;
@@ -23,7 +30,7 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 50%;
-    height: 2in;
+    flex-grow: 1;
 }
 
 .page{
