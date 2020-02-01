@@ -3,19 +3,16 @@ import './index.css';
 
 import { problems, solutions } from './cards';
 
-function makeCard(cardDef) {
+function makeCard(cardDef, idx) {
 	const card = document.createElement('div');
 	card.className = 'card';
+	card.style.backgroundImage = `url(https://www.placecage.com/${idx+250}/${idx+350})`;
 
 	const title = document.createElement('div');
 	title.className = "card-title";
 	title.textContent = cardDef.title;
 	card.appendChild(title);
 
-	const img = document.createElement('div');
-	img.className = "card-image";
-	img.style.backgroundImage = "url(https://www.placecage.com/500/500)";
-	card.appendChild(img);
 
 	if(cardDef.description){
 		const description = document.createElement('div');
