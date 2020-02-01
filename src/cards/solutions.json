@@ -17,7 +17,7 @@
 	{
 		"title": "Pneumatic drill",
 		"description": "Not necessarily pneumatic. Also known as a jackhammer or a kango (not too be confused with roos)",
-		"img": ""
+		"img": "pneumatic drill.png"
 	},
 	{
 		"title": "Chainsaw",
@@ -42,7 +42,7 @@
 	{
 		"title": "A Cool Sword",
 		"description": "Forged in 1372, this bad boy can cut through a dragon's scaly hide like hot churned butter from the local farm.",
-		"img": ""
+		"img": "sword.png"
 	},
 	{
 		"title": "A bit of string",
@@ -97,7 +97,7 @@
 	{
 		"title": "Hot glue gun",
 		"description": "Hot and sticky. Just squeeze the trigger.",
-		"img": ""
+		"img": "hot glue gun.png"
 	},
 	{
 		"title": "Parachute",
@@ -135,9 +135,9 @@
 		"img": ""
 	},
 	{
-		"title": "A contracter",
+		"title": "A contractor",
 		"description": "Plumbling, construction, whatever you need.",
-		"img": ""
+		"img": "contractor.png"
 	},
 	{
 		"title": "Common sense",
@@ -177,12 +177,12 @@
 	{
 		"title": "A Macbook Pro",
 		"description": "It's expensive, but it works. Sometimes.",
-		"img": ""
+		"img": "macbook pro.png"
 	},
 	{
 		"title": "Key to the city",
 		"description": "This is really going to open doors for you.",
-		"img": ""
+		"img": "key to the city.png"
 	},
 	{
 		"title": "A bird's eye view",
