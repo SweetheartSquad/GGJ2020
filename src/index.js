@@ -1,17 +1,31 @@
 import 'normalize.css';
 import './index.css';
 
-function makeCard() {
+import { problems, solutions } from './cards';
+
+function makeCard(text) {
 	const card = document.createElement('div');
 	card.className = 'card';
-	card.textContent = 'fffff';
+	card.textContent = text;
 	return card;
 }
 
-const page = document.createElement('div');
-page.className = 'page';
+function makePage() {
+	const page = document.createElement('div');
+	page.className = 'page';
+	return page;
+}
 
-new Array(9).fill(0).forEach(() => {
-	page.appendChild(makeCard());
+const cards = [...problems.map(makeCard), ...solutions.map(makeCard)];
+
+const cardsPerPage = 9;
+const pages = new Array(Math.ceil(cards.length / 9)).fill(0).map((_, idx) => {
+	const begin = idx * cardsPerPage;
+	return cards.slice(begin, begin + cardsPerPage);
 });
-document.body.appendChild(page);
+
+pages.forEach(page => {
+	const pageEl = makePage();
+	page.forEach(card => pageEl.appendChild(card));
+	document.body.appendChild(pageEl);
+});
