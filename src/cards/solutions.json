@@ -1,154 +1,192 @@
 [
 	{
-		"title": "wrench",
-		"description": ""
+		"title": "Wrench",
+		"description": "What situation is not improved by tossing a wrench in the works?",
+		"img": ""
 	},
 	{
-		"title": "screwdriver",
-		"description": ""
+		"title": "Screwdriver",
+		"description": "Flat heat, phillips, whatever it is, just stick it in and twist.",
+		"img": ""
 	},
 	{
-		"title": "sledgehammer",
-		"description": ""
+		"title": "Sledgehammer",
+		"description": "It's like a regular hammer, but sledge.",
+		"img": ""
 	},
 	{
-		"title": "pneumatic drill",
-		"description": ""
+		"title": "Pneumatic drill",
+		"description": "Not necessarily pneumatic. Also known as a jackhammer or a kango (not too be confused with roos)",
+		"img": ""
 	},
 	{
-		"title": "chainsaw",
-		"description": ""
+		"title": "Chainsaw",
+		"description": "Originally concieved to cut through cervical bones during childbirth. Turns out they can cut through a lot.",
+		"img": ""
 	},
 	{
-		"title": "flint and steel",
-		"description": ""
+		"title": "Flint and steel",
+		"description": "",
+		"img": ""
 	},
 	{
-		"title": "blowtorch",
-		"description": ""
+		"title": "Blowtorch",
+		"description": "",
+		"img": ""
 	},
 	{
-		"title": "a big pointy stick",
-		"description": ""
+		"title": "A Big Pointy Stick",
+		"description": "It was ",
+		"img": ""
 	},
 	{
-		"title": "a cool sword",
-		"description": ""
+		"title": "A Cool Sword",
+		"description": "Forged in 1372, this bad boy can cut through a dragon's scaly hide like hot churned butter from the local farm.",
+		"img": ""
 	},
 	{
-		"title": "bit of string",
-		"description": ""
+		"title": "Bit of string",
+		"description": "",
+		"img": ""
 	},
 	{
-		"title": "a couple of matches",
-		"description": ""
+		"title": "A couple of matches",
+		"description": "",
+		"img": ""
 	},
 	{
-		"title": "bubblegum",
-		"description": ""
+		"title": "Bubblegum",
+		"description": "",
+		"img": ""
 	},
 	{
-		"title": "duct tape",
-		"description": ""
+		"title": "Duct tape",
+		"description": "",
+		"img": ""
 	},
 	{
-		"title": "a shiny rock",
-		"description": ""
+		"title": "A shiny rock",
+		"description": "",
+		"img": ""
 	},
 	{
-		"title": "a bottle of quality water-based lubricant",
-		"description": ""
+		"title": "A bottle of quality water-based lubricant",
+		"description": "",
+		"img": ""
 	},
 	{
-		"title": "grindr",
-		"description": ""
+		"title": "Grindr",
+		"description": "",
+		"img": ""
 	},
 	{
-		"title": "teeth",
-		"description": ""
+		"title": "Teeth",
+		"description": "[Dentist waiting room]\nMe,: [chanting] teeth, teeth-\nOther patients: teeth, TEETH\nSecretary: [pounding her clipboard] TEETH, TEETH, TEETH!",
+		"img": ""
 	},
 	{
-		"title": "big strong muscles",
-		"description": ""
+		"title": "Big strong muscles",
+		"description": "Maybe the real solution was inside you all along?",
+		"img": ""
 	},
 	{
-		"title": "stapler",
-		"description": ""
+		"title": "Stapler",
+		"description": "",
+		"img": ""
 	},
 	{
-		"title": "hot glue gun",
-		"description": ""
+		"title": "Hot glue gun",
+		"description": "",
+		"img": ""
 	},
 	{
-		"title": "parachute",
-		"description": ""
+		"title": "Parachute",
+		"description": "",
+		"img": ""
 	},
 	{
-		"title": "jaws of life",
-		"description": ""
+		"title": "Jaws of life",
+		"description": "",
+		"img": ""
 	},
 	{
 		"title": "50ft rope",
-		"description": ""
+		"description": "",
+		"img": ""
 	},
 	{
-		"title": "laser pointer",
-		"description": ""
+		"title": "Laser pointer",
+		"description": "",
+		"img": ""
 	},
 	{
-		"title": "plastic explosive",
-		"description": ""
+		"title": "Plastic explosive",
+		"description": "",
+		"img": ""
 	},
 	{
-		"title": "a winning smile",
-		"description": ""
+		"title": "A winning smile",
+		"description": "",
+		"img": ""
 	},
 	{
-		"title": "the map to the treasure",
-		"description": ""
+		"title": "The map to the treasure",
+		"description": "",
+		"img": ""
 	},
 	{
-		"title": "a contracted repairman",
-		"description": ""
+		"title": "A contracted repairman",
+		"description": "",
+		"img": ""
 	},
 	{
-		"title": "common sense",
-		"description": ""
+		"title": "Common sense",
+		"description": "",
+		"img": ""
 	},
 	{
-		"title": "a prize-winning pig",
-		"description": ""
+		"title": "A prize-winning pig",
+		"description": "",
+		"img": ""
 	},
 	{
-		"title": "a flock of Canadian geese",
-		"description": ""
+		"title": "A flock of Canadian geese",
+		"description": "",
+		"img": ""
 	},
 	{
-		"title": "conflict management skills",
-		"description": ""
+		"title": "Conflict management skills",
+		"description": "",
+		"img": ""
 	},
 	{
 		"title": "CPR certification",
-		"description": ""
+		"description": "",
+		"img": ""
 	},
 	{
-		"title": "can-do attitude",
-		"description": ""
+		"title": "Can-do attitude",
+		"description": "",
+		"img": ""
 	},
 	{
-		"title": "back-talk",
-		"description": ""
+		"title": "Back-talk",
+		"description": "",
+		"img": ""
 	},
 	{
-		"title": "a macbook pro",
-		"description": ""
+		"title": "A macbook pro",
+		"description": "",
+		"img": ""
 	},
 	{
-		"title": "key to the city",
-		"description": ""
+		"title": "Key to the city",
+		"description": "",
+		"img": ""
 	},
 	{
-		"title": "a bird's eye view",
-		"description": ""
+		"title": "A bird's eye view",
+		"description": "",
+		"img": ""
 	}
 ]

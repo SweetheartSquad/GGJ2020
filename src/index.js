@@ -30,7 +30,7 @@ function makePage() {
 	return page;
 }
 
-const cards = [...problems.map(makeCard), ...solutions.map(makeCard)];
+const cards = [...solutions.map(makeCard), ...problems.map(makeCard)];
 
 const cardsPerPage = 9;
 const pages = new Array(Math.ceil(cards.length / 9)).fill(0).map((_, idx) => {
