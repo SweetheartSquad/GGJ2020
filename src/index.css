@@ -16,3 +16,7 @@ body{
     width: 8.5in;
     height: 11in;
 }
+
+@page {
+    margin: 0;
+}
