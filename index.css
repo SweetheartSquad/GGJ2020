@@ -1,0 +1,17 @@
+body{
+    background-color: #000000;
+}
+
+.card{
+    width: 2.5in;
+    height: 3.5in;
+    background-color: green;
+    display: inline-block;
+    margin: 1px;
+}
+
+.page{
+    background-color: #FFF;
+    width: 8.5in;
+    height: 11in;
+}
