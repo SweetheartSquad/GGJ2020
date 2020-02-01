@@ -1,9 +1,18 @@
+@font-face {
+    font-family: "Municipal";
+    src: url("/Municipal.ttf") format("ttf");
+}
+
+@font-face {
+    font-family: "Rockwell";
+    src: url("/ROCK.TTF") format("ttf");
+}
+
 body{
     background-color: #000000;
 }
 
 .card{
-    background-color: green;
     margin: 1px;
     border: solid 1px black;
     display: flex;
@@ -11,12 +20,12 @@ body{
 }
 
 .card-title{
-    background-color: #FF0000;
+    font-family: 'Municipal';
     margin: 0.1in;
 }
 
 .card-description{
-    background-color: #0000FF;
+    font-family: 'Rockwell';
     height: 1.5in;
     margin: 0.1in;
 }
