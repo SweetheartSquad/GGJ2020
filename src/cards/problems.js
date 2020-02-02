@@ -79,11 +79,7 @@ export default [{
 		"description": "",
 	},
 	{
-		"title": "international space station",
-		"description": "",
-	},
-	{
-		"title": "international space situation",
+		"title": "faulty airlock door",
 		"description": "",
 	},
 	{
@@ -184,6 +180,222 @@ export default [{
 	},
 	{
 		"title": "cat stuck in a tree",
+		"description": "",
+	},
+	{
+		"title": "bad grades",
+		"description": "",
+	},
+	{
+		"title": "dirty dishes",
+		"description": "",
+	},
+	{
+		"title": "hole in the floor",
+		"description": "",
+	},
+	{
+		"title": "leaky hose",
+		"description": "",
+	},
+	{
+		"title": "scheduled two dates on the same night",
+		"description": "",
+	},
+	{
+		"title": "the crushing loneliness of being human",
+		"description": "",
+	},
+	{
+		"title": "dying houseplant",
+		"description": "",
+	},
+	{
+		"title": "your phone died and you need a ride home",
+		"description": "",
+	},
+	{
+		"title": "overly friendly coworker",
+		"description": "",
+	},
+	{
+		"title": "a tense family dinner",
+		"description": "",
+	},
+	{
+		"title": "dropped your keys in a storm drain",
+		"description": "",
+	},
+	{
+		"title": "your dog ran away",
+		"description": "",
+	},
+	{
+		"title": "someone is crowding your personal space",
+		"description": "",
+	},
+	{
+		"title": "broken wristwatch",
+		"description": "",
+	},
+	{
+		"title": "lost in the woods",
+		"description": "",
+	},
+	{
+		"title": "sinking cruise ship",
+		"description": "",
+	},
+	{
+		"title": "falling from a great height",
+		"description": "",
+	},
+	{
+		"title": "your parent is in a bad mood",
+		"description": "",
+	},
+	{
+		"title": "front door is frozen shut",
+		"description": "",
+	},
+	{
+		"title": "high student loans",
+		"description": "",
+	},
+	{
+		"title": "the light switch is still on but you're already in bed",
+		"description": "",
+	},
+	{
+		"title": "the drummer quits your band",
+		"description": "",
+	},
+	{
+		"title": "trapped under a fallen tree",
+		"description": "",
+	},
+	{
+		"title": "forgot your spouse's birthday",
+		"description": "",
+	},
+	{
+		"title": "didn't bring a gift for the party host",
+		"description": "",
+	},
+	{
+		"title": "cork stuck in wine bottle",
+		"description": "",
+	},
+	{
+		"title": "burnt dinner",
+		"description": "",
+	},
+	{
+		"title": "stuffy nose",
+		"description": "",
+	},
+	{
+		"title": "crooked painting",
+		"description": "",
+	},
+	{
+		"title": "submarine is filling with water",
+		"description": "",
+	},
+	{
+		"title": "handcuffed to a radiator",
+		"description": "",
+	},
+	{
+		"title": "locked in your bathroom",
+		"description": "",
+	},
+	{
+		"title": "depression",
+		"description": "",
+	},
+	{
+		"title": "no time to go to the gym",
+		"description": "",
+	},
+	{
+		"title": "broken stove",
+		"description": "",
+	},
+	{
+		"title": "broken ceiling light",
+		"description": "",
+	},
+	{
+		"title": "you are on fire",
+		"description": "",
+	},
+	{
+		"title": "broken ice cream machine",
+		"description": "",
+	},
+	{
+		"title": "naked in public",
+		"description": "",
+	},
+	{
+		"title": "broken purse strap",
+		"description": "",
+	},
+	{
+		"title": "broken shoe heel",
+		"description": "",
+	},
+	{
+		"title": "your front door is locked",
+		"description": "",
+	},
+	{
+		"title": "stuck on the roof",
+		"description": "",
+	},
+	{
+		"title": "stuck in a deep hole",
+		"description": "",
+	},
+	{
+		"title": "feelings of inadequacy",
+		"description": "",
+	},
+	{
+		"title": "a boring party",
+		"description": "",
+	},
+	{
+		"title": "no knife to cut the cake",
+		"description": "",
+	},
+	{
+		"title": "really big pile of laundry",
+		"description": "",
+	},
+	{
+		"title": "writer's block",
+		"description": "",
+	},
+	{
+		"title": "can't get to sleep",
+		"description": "",
+	},
+	{
+		"title": "bacne",
+		"description": "acne that's on your back",
+	},
+	{
+		"title": "you need an haircut, right now",
+		"description": "",
+	},
+	{
+		"title": "tangled headphones",
+		"description": "",
+	},
+	{
+		"title": "spilled milk",
 		"description": "",
 	}
 ];
