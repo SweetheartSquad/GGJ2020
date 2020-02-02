@@ -17,7 +17,7 @@
 	{
 		"title": "Pneumatic drill",
 		"description": "Not necessarily pneumatic. Also known as a jackhammer or a kango (not too be confused with roos)",
-		"img": "pneumatic drill.png"
+		"img": ""
 	},
 	{
 		"title": "Chainsaw",
@@ -42,7 +42,7 @@
 	{
 		"title": "A Cool Sword",
 		"description": "Forged in 1372, this bad boy can cut through a dragon's scaly hide like hot churned butter from the local farm.",
-		"img": "sword.png"
+		"img": ""
 	},
 	{
 		"title": "A bit of string",
@@ -97,7 +97,7 @@
 	{
 		"title": "Hot glue gun",
 		"description": "Hot and sticky. Just squeeze the trigger.",
-		"img": "hot glue gun.png"
+		"img": ""
 	},
 	{
 		"title": "Parachute",
@@ -106,7 +106,7 @@
 	},
 	{
 		"title": "Jaws of life",
-		"description": "Like a metal pair of big beefy thighs.",
+		"description": "Designed after Superman's big beefy thighs, this tool is used to extract people from wrecked cars.",
 		"img": ""
 	},
 	{
@@ -135,9 +135,9 @@
 		"img": ""
 	},
 	{
-		"title": "A contractor",
+		"title": "A contracter",
 		"description": "Plumbling, construction, whatever you need.",
-		"img": "contractor.png"
+		"img": ""
 	},
 	{
 		"title": "Common sense",
@@ -177,12 +177,12 @@
 	{
 		"title": "A Macbook Pro",
 		"description": "It's expensive, but it works. Sometimes.",
-		"img": "macbook pro.png"
+		"img": ""
 	},
 	{
 		"title": "Key to the city",
 		"description": "This is really going to open doors for you.",
-		"img": "key to the city.png"
+		"img": ""
 	},
 	{
 		"title": "A bird's eye view",
@@ -208,5 +208,295 @@
 		"title": "Awl",
 		"description": "A pointed tool for boring holes. Not for use with exciting holes.",
 		"img": ""
-	}
+	},
+  {
+		"title": "Egg roll",
+		"description": "Comes free with a Combo 2.",
+		"img": ""
+	},
+  {
+		"title": "Tire iron",
+		"description": "Mostly good for tires and murders in the 1950s.",
+		"img": ""
+	},
+  {
+		"title": "Ice pick",
+		"description": "When you absolutey, positively need to f*** up some ice.",
+		"img": ""
+	},
+  {
+		"title": "Chopsticks",
+		"description": "Good for picking stuff up.",
+		"img": ""
+	},
+  {
+		"title": "Self-help book",
+		"description": "If you can't fix yourself, how in the hell are you going to fix something else?",
+		"img": ""
+	},
+  {
+		"title": "Hot soup",
+		"description": "It's good for the soul.",
+		"img": ""
+	},
+  {
+		"title": "Trowel",
+		"description": "A really small shovel.",
+		"img": ""
+	},
+  {
+		"title": "Axe",
+		"description": "For hacking and whacking and thwacking.",
+		"img": ""
+	},
+  {
+		"title": "Hoe",
+		"description": "Hoe money, hoe problems.",
+		"img": ""
+	},
+  {
+		"title": "Shovel",
+		"description": "A really big trowel.",
+		"img": ""
+	},
+  {
+		"title": "Foot-powered dental polisher",
+		"description": "The better way to clean your teeth with your feet.",
+		"img": ""
+	},
+  {
+    "title": "Bellows",
+    "description": "A hand-powered wind machine.",
+    "img": ""
+  },
+  {
+    "title": "Blacksmith tongs",
+    "description": "Don't use these in your salad. Or do. I'm not your mom.",
+    "img": ""
+  },
+  {
+    "title": "Anvil",
+    "description": "Used to hammer out metal tools, or to drop on roadrunners.",
+    "img": ""
+  },
+  {
+    "title": "Needle and thread",
+    "description": "It's sew easy to use!",
+    "img": ""
+  },
+  {
+    "title": "Hand plane",
+    "description": "Like a cheese slicer, but for wood.",
+    "img": ""
+  },
+  {
+    "title": "Mindfulness & meditation",
+    "description": "You'd better CHILL OUT, mister. RIGHT NOW.",
+    "img": ""
+  },
+  {
+    "title": "Ketogenic diet",
+    "description": "A low-carb diet that sends your body into emergency lockdown.",
+    "img": ""
+  },
+  {
+    "title": "An eye for fashion",
+    "description": "You know how to put together a killer outfit.",
+    "img": ""
+  },
+  {
+    "title": "A thorough knowledge of cryptozoology",
+    "description": "You know about all manner of mythical creatures, from Bigfoot to the Loch Ness Monster.",
+    "img": ""
+  },
+  {
+    "title": "Getaway car",
+    "description": "Sometimes it's better to just run away from your problems.",
+    "img": ""
+  },
+  {
+    "title": "Elbow grease",
+    "description": "I think it's a metaphor. Otherwise it's just gross.",
+    "img": ""
+  },
+  {
+    "title": "A tablecloth",
+    "description": "An indoor picnic blanket.",
+    "img": ""
+  },
+  {
+    "title": "Alcohol",
+    "description": "A problem solver, but also a problem causer.",
+    "img": ""
+  },
+  {
+    "title": "Leather belt",
+    "description": "A fashionable way to keep your pants on.",
+    "img": ""
+  },
+  {
+    "title": "Bag of candy",
+    "description": "It's big! There's probably every type of candy in there.",
+    "img": ""
+  },
+  {
+    "title": "Can opener",
+    "description": "Opens cans. What did you think it does?",
+    "img": ""
+  },
+  {
+    "title": "Grappling hook",
+    "description": "Used for climbing buildings and crossing canyons.",
+    "img": ""
+  },
+  {
+    "title": "Can of soda",
+    "description": "A sugary, fizzy beverage.",
+    "img": ""
+  },
+  {
+    "title": "Rich parents",
+    "description": "They can get you out of any situation. Except maybe a communist revolution.",
+    "img": ""
+  },
+  {
+    "title": "A significant other",
+    "description": "I mean, you're basically just keeping them around because they're useful.",
+    "img": ""
+  },
+  {
+    "title": "Fire extinguisher",
+    "description": "The light in your eyes went out a long time ago.",
+    "img": ""
+  },
+  {
+    "title": "Pressure cooker",
+    "description": "It only explodes SOME of the time.",
+    "img": ""
+  },
+  {
+    "title": "A phone charger",
+    "description": "And it's got the right type of plug!",
+    "img": ""
+  },
+  {
+    "title": "Lifesaver",
+    "description": "The plastic ring, not the candy.",
+    "img": ""
+  },
+  {
+    "title": "A crisp dollar bill",
+    "description": "You just printed it fresh this morning.",
+    "img": ""
+  },
+  {
+    "title": "Diplomatic immunity",
+    "description": "The laws of this country don't apply to you anymore.",
+    "img": ""
+  },
+  {
+    "title": "Knee brace",
+    "description": "Helps strengthen your knee. If you're a human, anyway.",
+    "img": ""
+  },
+  {
+    "title": "Crowbar",
+    "description": "Good for opening crates and skulls.",
+    "img": ""
+  },
+  {
+    "title": "Drone",
+    "description": "A small remote-controlled hobby aircraft.",
+    "img": ""
+  },
+  {
+    "title": "Tinder",
+    "description": "Used to start a fire. Metaphorically or literally.",
+    "img": ""
+  },
+  {
+    "title": "Telephone book",
+    "description": "A very large and heavy book full of phone numbers.",
+    "img": ""
+  },
+  {
+    "title": "Telepathy",
+    "description": "Lets you read people's minds, whether you want to or not.",
+    "img": ""
+  },
+  {
+    "title": "Plastic cutlery",
+    "description": "A knife, a spoon, and a fork.",
+    "img": ""
+  },
+  {
+    "title": "Canoe paddle",
+    "description": "Makes the canoe go.",
+    "img": ""
+  },
+  {
+    "title": "Garlic press",
+    "description": "Turns garlic pieces into smaller garlic pieces",
+    "img": ""
+  },
+  {
+    "title": "Mason jar",
+    "description": "An oddly compelling glass jar.",
+    "img": ""
+  },
+  {
+    "title": "A dozen eggs",
+    "description": "You can make a cake... or a mess.",
+    "img": ""
+  },
+  {
+    "title": "Novelty scissors",
+    "description": "Somewhere, a ribbon-cutting ceremony is being tearfully cancelled.",
+    "img": ""
+  },
+  {
+    "title": "Folding chair",
+    "description": "Sit down anywhere.",
+    "img": ""
+  },
+  {
+    "title": "A good night's sleep",
+    "description": "How refreshing!",
+    "img": ""
+  },
+  {
+    "title": "Time",
+    "description": "It heals all wounds.",
+    "img": ""
+  },
+  {
+    "title": "A bandage",
+    "description": "Good for cuts, scrapes, and wounds.",
+    "img": ""
+  },
+  {
+    "title": "Active listening",
+    "description": "The first step is to stop talking.",
+    "img": ""
+  },
+  {
+    "title": "Therapy",
+    "description": "Actually going, not just tweeting about it.",
+    "img": ""
+  },
+  {
+    "title": "K2 EMF Meter",
+    "description": "Detect ghosts and other paranormal activity with astonishing accuracy.",
+    "img": ""
+  },
+  {
+    "title": "Inflatable shim",
+    "description": "Used by construction workers to hold shelves and doors in place while they work. Also doubles as a pillow.",
+    "img": ""
+  },
+  {
+    "title": "Ball-end glass cutter",
+    "description": "A small tool used to snap glass panes in half.",
+    "img": ""
+  }
 ]

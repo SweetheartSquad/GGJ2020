@@ -1,7 +1,7 @@
 [
 	{
 		"title": "car with a blown engine",
-		"description": "Bad bad bad",
+		"description": "",
 		"img": ""
 	},
 	{
@@ -25,17 +25,17 @@
 		"img": ""
 	},
 	{
-		"title": "boredome",
+		"title": "boredom",
 		"description": "",
 		"img": ""
 	},
 	{
-		"title": "relationship",
+		"title": "a relationship",
 		"description": "",
 		"img": ""
 	},
 	{
-		"title": "life",
+		"title": "your life",
 		"description": "",
 		"img": ""
 	},
@@ -160,12 +160,22 @@
 		"img": ""
 	},
 	{
-		"title": "creeky stairs",
+		"title": "terrible first date",
+		"description": "",
+		"img": ""
+	},
+  {
+		"title": "creaky stairs",
 		"description": "",
 		"img": ""
 	},
 	{
-		"title": "hurt ego",
+		"title": "late to work",
+		"description": "",
+		"img": ""
+	},
+  {
+		"title": "bruised ego",
 		"description": "",
 		"img": ""
 	},
@@ -175,17 +185,12 @@
 		"img": ""
 	},
 	{
-		"title": "absence of creativity",
-		"description": "",
-		"img": ""
-	},
-	{
 		"title": "splinter in the finger",
 		"description": "",
 		"img": ""
 	},
 	{
-		"title": "a loss of passsion",
+		"title": "a loss of passion",
 		"description": "",
 		"img": ""
 	},
@@ -195,7 +200,7 @@
 		"img": ""
 	},
 	{
-		"title": "stink foot",
+		"title": "stinky feet",
 		"description": "",
 		"img": ""
 	},
@@ -203,5 +208,30 @@
 		"title": "alien invasion",
 		"description": "",
 		"img": ""
-	}
+	},
+  {
+    "title": "small kitchen fire",
+    "description": "",
+    "img": ""
+  },
+  {
+    "title": "jay-z's 99th problem",
+    "description": "Well, we know what it ain't.",
+    "img": ""
+  },
+  {
+    "title": "lycanthropy",
+    "description": "In rare cases, this can actually be a solution.",
+    "img": ""
+  },
+  {
+    "title": "stranded on a desert island",
+    "description": "",
+    "img": ""
+  },
+  {
+    "title": "cat stuck in a tree",
+    "description": "",
+    "img": ""
+  }
 ]
