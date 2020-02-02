@@ -18,6 +18,10 @@ function makeCard(cardDef) {
         const description = document.createElement("div");
         description.textContent = cardDef.description;
         description.className = "card-description";
+        // check if it's a blank card
+        if (description.textContent == " ") {
+          description.className = "card-description-blank";
+        }
         card.appendChild(description);
     }
 

@@ -1,5 +1,5 @@
 export default [{
-		"title": "car with a blown engine",
+		"title": "a car with a blown engine",
 		"description": "",
 	},
 	{
@@ -7,11 +7,11 @@ export default [{
 		"description": "",
 	},
 	{
-		"title": "severely broken limb",
+		"title": "a severely broken limb",
 		"description": "",
 	},
 	{
-		"title": "PC virus",
+		"title": "a PC virus",
 		"description": "",
 	},
 	{
@@ -39,27 +39,27 @@ export default [{
 		"description": "",
 	},
 	{
-		"title": "clogged toilet",
+		"title": "a clogged toilet",
 		"description": "",
 	},
 	{
-		"title": "broken window",
+		"title": "a broken window",
 		"description": "",
 	},
 	{
-		"title": "leaky roof",
+		"title": "a leaky roof",
 		"description": "",
 	},
 	{
-		"title": "stuck lock",
+		"title": "a stuck lock",
 		"description": "",
 	},
 	{
-		"title": "stove fire",
+		"title": "a stove fire",
 		"description": "",
 	},
 	{
-		"title": "broken heart",
+		"title": "a broken heart",
 		"description": "",
 	},
 	{
@@ -67,7 +67,7 @@ export default [{
 		"description": "",
 	},
 	{
-		"title": "blown water main",
+		"title": "a blown water main",
 		"description": "",
 	},
 	{
@@ -79,7 +79,7 @@ export default [{
 		"description": "",
 	},
 	{
-		"title": "faulty airlock door",
+		"title": "a faulty airlock door",
 		"description": "",
 	},
 	{
@@ -95,23 +95,23 @@ export default [{
 		"description": "",
 	},
 	{
-		"title": "unspooled casette tape",
+		"title": "an unspooled casette tape",
 		"description": "",
 	},
 	{
-		"title": "scratched CD",
+		"title": "a scratched CD",
 		"description": "",
 	},
 	{
-		"title": "burnt out lightbulb",
+		"title": "a burnt out lightbulb",
 		"description": "",
 	},
 	{
-		"title": "cracked phone screen",
+		"title": "a cracked phone screen",
 		"description": "",
 	},
 	{
-		"title": "flat tire",
+		"title": "a flat tire",
 		"description": "",
 	},
 	{
@@ -123,7 +123,7 @@ export default [{
 		"description": "",
 	},
 	{
-		"title": "terrible first date",
+		"title": "a terrible first date",
 		"description": "",
 	},
 	{
@@ -135,7 +135,7 @@ export default [{
 		"description": "",
 	},
 	{
-		"title": "bruised ego",
+		"title": "a bruised ego",
 		"description": "",
 	},
 	{
@@ -143,7 +143,7 @@ export default [{
 		"description": "",
 	},
 	{
-		"title": "splinter in the finger",
+		"title": "a splinter in your finger",
 		"description": "",
 	},
 	{
@@ -151,7 +151,7 @@ export default [{
 		"description": "",
 	},
 	{
-		"title": "bloody nose",
+		"title": "a bloody nose",
 		"description": "",
 	},
 	{
@@ -159,11 +159,11 @@ export default [{
 		"description": "",
 	},
 	{
-		"title": "alien invasion",
+		"title": "an alien invasion",
 		"description": "",
 	},
 	{
-		"title": "small kitchen fire",
+		"title": "a small kitchen fire",
 		"description": "",
 	},
 	{
@@ -175,11 +175,11 @@ export default [{
 		"description": "In rare cases, this can actually be a solution.",
 	},
 	{
-		"title": "stranded on a desert island",
+		"title": "being stranded on a desert island",
 		"description": "",
 	},
 	{
-		"title": "cat stuck in a tree",
+		"title": "a cat stuck in a tree",
 		"description": "",
 	},
 	{
@@ -191,15 +191,15 @@ export default [{
 		"description": "",
 	},
 	{
-		"title": "hole in the floor",
+		"title": "a hole in the floor",
 		"description": "",
 	},
 	{
-		"title": "leaky hose",
+		"title": "a leaky hose",
 		"description": "",
 	},
 	{
-		"title": "scheduled two dates on the same night",
+		"title": "having two dates scheduled on the same night",
 		"description": "",
 	},
 	{
@@ -207,15 +207,15 @@ export default [{
 		"description": "",
 	},
 	{
-		"title": "dying houseplant",
+		"title": "a dying houseplant",
 		"description": "",
 	},
 	{
-		"title": "your phone died and you need a ride home",
+		"title": "needing a ride when your phone is dead",
 		"description": "",
 	},
 	{
-		"title": "overly friendly coworker",
+		"title": "an overly friendly coworker",
 		"description": "",
 	},
 	{
@@ -223,19 +223,19 @@ export default [{
 		"description": "",
 	},
 	{
-		"title": "dropped your keys in a storm drain",
+		"title": "having dropped your keys in a storm drain",
 		"description": "",
 	},
 	{
-		"title": "your dog ran away",
+		"title": "a lost dog",
 		"description": "",
 	},
 	{
-		"title": "someone is crowding your personal space",
+		"title": "someone crowding your personal space",
 		"description": "",
 	},
 	{
-		"title": "broken wristwatch",
+		"title": "a broken wristwatch",
 		"description": "",
 	},
 	{
@@ -243,7 +243,7 @@ export default [{
 		"description": "",
 	},
 	{
-		"title": "sinking cruise ship",
+		"title": "a sinking cruise ship",
 		"description": "",
 	},
 	{
@@ -251,11 +251,11 @@ export default [{
 		"description": "",
 	},
 	{
-		"title": "your parent is in a bad mood",
+		"title": "your parent being in a bad mood",
 		"description": "",
 	},
 	{
-		"title": "front door is frozen shut",
+		"title": "a door that's frozen shut",
 		"description": "",
 	},
 	{
@@ -263,51 +263,51 @@ export default [{
 		"description": "",
 	},
 	{
-		"title": "the light switch is still on but you're already in bed",
+		"title": "the light switch being on when you're already in bed",
 		"description": "",
 	},
 	{
-		"title": "the drummer quits your band",
+		"title": "the drummer quitting your band",
 		"description": "",
 	},
 	{
-		"title": "trapped under a fallen tree",
+		"title": "being trapped under a fallen tree",
 		"description": "",
 	},
 	{
-		"title": "forgot your spouse's birthday",
+		"title": "forgetting your spouse's birthday",
 		"description": "",
 	},
 	{
-		"title": "didn't bring a gift for the party host",
+		"title": "not bringing a gift for the party host",
 		"description": "",
 	},
 	{
-		"title": "cork stuck in wine bottle",
+		"title": "a cork stuck in wine bottle",
 		"description": "",
 	},
 	{
-		"title": "burnt dinner",
+		"title": "nausea, heartburn, indigestion, upset stomach, diarrhea",
 		"description": "",
 	},
 	{
-		"title": "stuffy nose",
+		"title": "a stuffy nose",
 		"description": "",
 	},
 	{
-		"title": "crooked painting",
+		"title": "a crooked painting",
 		"description": "",
 	},
 	{
-		"title": "submarine is filling with water",
+		"title": "a submarine filling with water",
 		"description": "",
 	},
 	{
-		"title": "handcuffed to a radiator",
+		"title": "being handcuffed to a radiator",
 		"description": "",
 	},
 	{
-		"title": "locked in your bathroom",
+		"title": "being locked in your bathroom",
 		"description": "",
 	},
 	{
@@ -315,47 +315,47 @@ export default [{
 		"description": "",
 	},
 	{
-		"title": "no time to go to the gym",
+		"title": "having no time to go to the gym",
 		"description": "",
 	},
 	{
-		"title": "broken stove",
+		"title": "a broken stove",
 		"description": "",
 	},
 	{
-		"title": "broken ceiling light",
+		"title": "a broken ceiling light",
 		"description": "",
 	},
 	{
-		"title": "you are on fire",
+		"title": "being on fire",
 		"description": "",
 	},
 	{
-		"title": "broken ice cream machine",
+		"title": "a broken ice cream machine",
 		"description": "",
 	},
 	{
-		"title": "naked in public",
+		"title": "being naked in public",
 		"description": "",
 	},
 	{
-		"title": "broken purse strap",
+		"title": "a broken purse strap",
 		"description": "",
 	},
 	{
-		"title": "broken shoe heel",
+		"title": "a broken shoe heel",
 		"description": "",
 	},
 	{
-		"title": "your front door is locked",
+		"title": "a locked front door",
 		"description": "",
 	},
 	{
-		"title": "stuck on the roof",
+		"title": "being stuck on the roof",
 		"description": "",
 	},
 	{
-		"title": "stuck in a deep hole",
+		"title": "being stuck in a deep hole",
 		"description": "",
 	},
 	{
@@ -367,11 +367,11 @@ export default [{
 		"description": "",
 	},
 	{
-		"title": "not haveing a knife to cut the cake",
+		"title": "not having a knife to cut the cake",
 		"description": "",
 	},
 	{
-		"title": "really big pile of laundry",
+		"title": "a really big pile of laundry",
 		"description": "",
 	},
 	{
@@ -379,15 +379,15 @@ export default [{
 		"description": "",
 	},
 	{
-		"title": "can't get to sleep",
+		"title": "insomnia",
 		"description": "",
 	},
 	{
-		"title": "bacne",
-		"description": "acne that's on your back",
+		"title": "bacne (back acne)",
+		"description": "",
 	},
 	{
-		"title": "you need an haircut, right now",
+		"title": "needing a haircut, immediately",
 		"description": "",
 	},
 	{
@@ -397,5 +397,13 @@ export default [{
 	{
 		"title": "spilled milk",
 		"description": "",
+	},
+  {
+		"title": " ",
+		"description": " "
+	},
+  {
+		"title": " ",
+		"description": " "
 	}
 ];
