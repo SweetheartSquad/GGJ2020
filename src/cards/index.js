@@ -1,5 +1,5 @@
-import problems from './problems.json';
-import solutions from './solutions.json';
+import problems from './problems';
+import solutions from './solutions';
 
 export { problems };
 export { solutions };

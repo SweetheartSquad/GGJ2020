@@ -1,237 +1,189 @@
-[
-	{
+export default [{
 		"title": "car with a blown engine",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "climate change",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "severely broken limb",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "PC virus",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "capitalism",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "boredom",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "a relationship",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "your life",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "a 16th century vase that you accidentally shattered on the floor of the museum of natural history",
 		"description": "oops",
-		"img": ""
 	},
 	{
 		"title": "just this whole situation",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "clogged toilet",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "broken window",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "leaky roof",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "stuck lock",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "stove fire",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "broken heart",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "male pattern baldness",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "blown water main",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "dinner",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "a lingering sense of ennui",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "international space station",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "international space situation",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "the pear incident",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "a bad hairdo",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "misaligned braces",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "unspooled casette tape",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "scratched CD",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "burnt out lightbulb",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "cracked phone screen",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "flat tire",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "a warped record",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "diarrhea",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "terrible first date",
 		"description": "",
-		"img": ""
 	},
-  {
+	{
 		"title": "creaky stairs",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "late to work",
 		"description": "",
-		"img": ""
 	},
-  {
+	{
 		"title": "bruised ego",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "a loose tooth",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "splinter in the finger",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "a loss of passion",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "bloody nose",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "stinky feet",
 		"description": "",
-		"img": ""
 	},
 	{
 		"title": "alien invasion",
 		"description": "",
-		"img": ""
 	},
-  {
-    "title": "small kitchen fire",
-    "description": "",
-    "img": ""
-  },
-  {
-    "title": "jay-z's 99th problem",
-    "description": "Well, we know what it ain't.",
-    "img": ""
-  },
-  {
-    "title": "lycanthropy",
-    "description": "In rare cases, this can actually be a solution.",
-    "img": ""
-  },
-  {
-    "title": "stranded on a desert island",
-    "description": "",
-    "img": ""
-  },
-  {
-    "title": "cat stuck in a tree",
-    "description": "",
-    "img": ""
-  }
-]
+	{
+		"title": "small kitchen fire",
+		"description": "",
+	},
+	{
+		"title": "jay-z's 99th problem",
+		"description": "Well, we know what it ain't.",
+	},
+	{
+		"title": "lycanthropy",
+		"description": "In rare cases, this can actually be a solution.",
+	},
+	{
+		"title": "stranded on a desert island",
+		"description": "",
+	},
+	{
+		"title": "cat stuck in a tree",
+		"description": "",
+	}
+];
