@@ -68,8 +68,8 @@ if(window.location.hash == "#print"){
 	printButton.textContent = "Print";
 	document.body.appendChild(printButton);
 
-	var handButton = document.createElement("a");
-	printButton.onclick = () =>{
+	var handButton = document.createElement("button");
+	handButton.onclick = () =>{
 		window.location.hash = "#hand";
 		window.location.reload();
 	}
