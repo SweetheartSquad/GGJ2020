@@ -112,7 +112,7 @@ export default [{
 	},
 	{
 		"title": "Common Sense",
-		"description": "No description needed"
+		"description": "No description needed."
 	},
 	{
 		"title": "A Prize-winning Pig",
@@ -132,11 +132,11 @@ export default [{
 	},
 	{
 		"title": "Can-do Attitude",
-		"description": "Better than a can't-do attitude, am I right??"
+		"description": "Better than a can't-do attitude, am I right????"
 	},
 	{
 		"title": "Back-talk",
-		"description": "Usually this gets you IN to trouble."
+		"description": "Usually this gets you INTO trouble."
 	},
 	{
 		"title": "A Macbook Pro",
@@ -152,11 +152,11 @@ export default [{
 	},
 	{
 		"title": "A Sufficiently Good Understanding of Photoshop",
-		"description": "If you're good enough, they won't even be able to tell from the pixels."
+		"description": "If you're good enough, they won't be able to tell from the pixels."
 	},
 	{
 		"title": "Auger",
-		"description": "It's a drilling device used for making holes in wood or in the ground. It usually includes a rotating helical screw blade called a 'flighting' to act as a screw conveyor... Hello? Are you still there?"
+		"description": "It's a drilling device used to make holes in wood or in the ground. It usually includes a rotating helical screw blade called a 'flighting' to act as a screw conveyor... Hello? Are you still there?"
 	},
 	{
 		"title": "Wire Stripper",

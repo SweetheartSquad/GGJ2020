@@ -394,14 +394,6 @@ export default [{
 		"title": "tangled headphones",
 		"description": "",
 	},
-	{
-		"title": "spilled milk",
-		"description": "",
-	},
-  {
-		"title": "spilled milk",
-		"description": "",
-	},
   {
 		"title": "spilled milk",
 		"description": "",
