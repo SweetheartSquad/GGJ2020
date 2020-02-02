@@ -1,4 +1,4 @@
-[{
+export default [{
 		"title": "Wrench",
 		"description": "What situation is not improved by tossing a wrench in the works?"
 	},
@@ -398,4 +398,4 @@
 		"title": "Ball-end glass cutter",
 		"description": "A small tool used to snap glass panes in half."
 	}
-]
+];
