@@ -408,5 +408,95 @@
     "title": "Drone",
     "description": "A small remote-controlled hobby aircraft.",
     "img": ""
+  },
+  {
+    "title": "Tinder",
+    "description": "Used to start a fire. Metaphorically or literally.",
+    "img": ""
+  },
+  {
+    "title": "Telephone book",
+    "description": "A very large and heavy book full of phone numbers.",
+    "img": ""
+  },
+  {
+    "title": "Telepathy",
+    "description": "Lets you read people's minds, whether you want to or not.",
+    "img": ""
+  },
+  {
+    "title": "Plastic cutlery",
+    "description": "A knife, a spoon, and a fork.",
+    "img": ""
+  },
+  {
+    "title": "Canoe paddle",
+    "description": "Makes the canoe go.",
+    "img": ""
+  },
+  {
+    "title": "Garlic press",
+    "description": "Turns garlic pieces into smaller garlic pieces",
+    "img": ""
+  },
+  {
+    "title": "Mason jar",
+    "description": "An oddly compelling glass jar.",
+    "img": ""
+  },
+  {
+    "title": "A dozen eggs",
+    "description": "You can make a cake... or a mess.",
+    "img": ""
+  },
+  {
+    "title": "Novelty scissors",
+    "description": "Somewhere, a ribbon-cutting ceremony is being tearfully cancelled.",
+    "img": ""
+  },
+  {
+    "title": "Folding chair",
+    "description": "Sit down anywhere.",
+    "img": ""
+  },
+  {
+    "title": "A good night's sleep",
+    "description": "How refreshing!",
+    "img": ""
+  },
+  {
+    "title": "Time",
+    "description": "It heals all wounds.",
+    "img": ""
+  },
+  {
+    "title": "A bandage",
+    "description": "Good for cuts, scrapes, and wounds.",
+    "img": ""
+  },
+  {
+    "title": "Active listening",
+    "description": "The first step is to stop talking.",
+    "img": ""
+  },
+  {
+    "title": "Therapy",
+    "description": "Actually going, not just tweeting about it.",
+    "img": ""
+  },
+  {
+    "title": "K2 EMF Meter",
+    "description": "Detect ghosts and other paranormal activity with astonishing accuracy.",
+    "img": ""
+  },
+  {
+    "title": "Inflatable shim",
+    "description": "Used by construction workers to hold shelves and doors in place while they work. Also doubles as a pillow.",
+    "img": ""
+  },
+  {
+    "title": "Ball-end glass cutter",
+    "description": "A small tool used to snap glass panes in half.",
+    "img": ""
   }
 ]
