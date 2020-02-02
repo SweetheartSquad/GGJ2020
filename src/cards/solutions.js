@@ -127,7 +127,7 @@ export default [{
 		"description": ""
 	},
 	{
-		"title": "CPR certification",
+		"title": "CPR Certification",
 		"description": "The legal way to punch someone in the chest."
 	},
 	{
