@@ -1,10 +1,10 @@
 export default [
-    "Everyone draw five solutions",
-    "Pick who judges first <come up with a dumb rule for how>",
-    "Judge flips over a problem and asks: \"Can anyone fix <read problem card>\"",
-    "Players pick a solution for that problem and play them face-down in the center",
-    "Judge flips over a solution card, and whoever played it explains: \"I can fix that!\" followed by how they would fix it with the solution",
-    "Player to the left of the judge is now the judge",
-    "Continue until someone has five points",
-    "If you run out of cards, draw back up to five (but not before you run out!)"
+    "Each player draws 5 solution cards.",
+    "Pick who judges first. (Come up with a dumb rule for how.)",
+    "The judge flips over a problem card and asks: \"Can anyone fix [read the problem card]?\"",
+    "The other players pick a solution card for that problem, and give it (face-down) to the judge.",
+    "The judge flips over a solution card. Whoever played it says: \"I can fix it!\" followed by how they would fix it with their solution card.",
+    "The judge picks a winning card. Then, the player to the left of the judge becomes the judge.",
+    "Continue playing until someone has five points.",
+    "If a player uses ALL 5 of their cards, then they can draw 5 more cards."
 ]

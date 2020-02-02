@@ -32,10 +32,10 @@ function makeRulesCards(rules){
 
     let chunckedRules = [];
     let currentChunck = [];
-    
+
     for(let i=0; i < rules.length; i++){
         currentChunck.push(rules[i]);
-        if(currentChunck.length == 5 || i == rules.length - 1){
+        if(currentChunck.length == 4 || i == rules.length - 1){
             chunckedRules.push(currentChunck);
             currentChunck = [];
         }
