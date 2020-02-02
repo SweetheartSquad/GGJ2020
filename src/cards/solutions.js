@@ -12,11 +12,11 @@ export default [{
 	},
 	{
 		"title": "Pneumatic drill",
-		"description": "Not necessarily pneumatic. Also known as a jackhammer or a kango (not too be confused with roos)"
+		"description": "Not necessarily pneumatic. Also known as a jackhammer or a kango (not too be confused with roos)."
 	},
 	{
 		"title": "Chainsaw",
-		"description": "Originally concieved to cut through pelvic bones during childbirth. Turns out they can cut through a lot."
+		"description": "Originally conceived to cut through pelvic bones during childbirth. Turns out they can cut through a lot."
 	},
 	{
 		"title": "Flint and Steel",
@@ -56,15 +56,15 @@ export default [{
 	},
 	{
 		"title": "A bottle of quality water-based lubricant",
-		"description": "What it says on the tin. Er, bottle."
+		"description": "What it says on the tin.\nEr, bottle."
 	},
 	{
 		"title": "Grindr",
-		"description": "Get it done, quick and dirty."
+		"description": "Find tools in your area in need of a little friction."
 	},
 	{
 		"title": "Teeth",
-		"description": "TEETH, TEETH, TEETH, TEETH...!"
+		"description": "TEETH,\nTEETH,\nTEETH,\nTEETH...!"
 	},
 	{
 		"title": "Big Strong Muscles",
@@ -124,7 +124,7 @@ export default [{
 	},
 	{
 		"title": "Conflict Resolution Skills",
-		"description": ""
+		"description": "Have you tried talking at your problems?"
 	},
 	{
 		"title": "CPR Certification",
@@ -171,11 +171,11 @@ export default [{
 		"description": "Comes free with a Combo 2."
 	},
 	{
-		"title": "Tire Ion",
+		"title": "Tire Iron",
 		"description": "Mostly good for tires and murders in the 1950s."
 	},
 	{
-		"title": "Ice Oick",
+		"title": "Ice Pick",
 		"description": "When you absolutey, positively need to f*** up some ice."
 	},
 	{
@@ -187,7 +187,7 @@ export default [{
 		"description": "If you can't fix yourself, how in the hell are you going to fix something else?"
 	},
 	{
-		"title": "Hot Soup",
+		"title": "Chicken Soup",
 		"description": "It's good for the soul."
 	},
 	{
@@ -227,11 +227,11 @@ export default [{
 		"description": "It's sew easy to use!"
 	},
 	{
-		"title": "Hand Plane",
+		"title": "Hand Planer",
 		"description": "Like a cheese slicer, but for wood."
 	},
 	{
-		"title": "Mindfulness & Meditation",
+		"title": "Meditation and Mindfulness",
 		"description": "You'd better CHILL OUT, mister. RIGHT NOW."
 	},
 	{
@@ -255,7 +255,7 @@ export default [{
 		"description": "I think it's a metaphor. Otherwise it's just gross."
 	},
 	{
-		"title": "A Tablecloth",
+		"title": "Tablecloth",
 		"description": "An indoor picnic blanket."
 	},
 	{
@@ -299,11 +299,11 @@ export default [{
 		"description": "It only explodes SOME of the time."
 	},
 	{
-		"title": "A Phone Charger",
+		"title": "Phone Charger",
 		"description": "And it's got the right type of plug!"
 	},
 	{
-		"title": "Lifesaver",
+		"title": "Life Saver",
 		"description": "The plastic ring, not the candy."
 	},
 	{
@@ -315,7 +315,7 @@ export default [{
 		"description": "The laws of this country don't apply to you anymore."
 	},
 	{
-		"title": "Knee brace",
+		"title": "Knee Brace",
 		"description": "Helps strengthen your knee. If you're a human, anyway."
 	},
 	{
@@ -331,7 +331,7 @@ export default [{
 		"description": "Used to start a fire. Metaphorically or literally."
 	},
 	{
-		"title": "Telephone Book",
+		"title": "Phonebook",
 		"description": "A very large and heavy book full of phone numbers."
 	},
 	{
@@ -375,7 +375,7 @@ export default [{
 		"description": "It heals all wounds."
 	},
 	{
-		"title": "A Bandage",
+		"title": "Bandage",
 		"description": "Good for cuts, scrapes, and wounds."
 	},
 	{
