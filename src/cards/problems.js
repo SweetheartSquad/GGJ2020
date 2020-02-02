@@ -79,11 +79,7 @@ export default [{
 		"description": "",
 	},
 	{
-		"title": "international space station",
-		"description": "",
-	},
-	{
-		"title": "international space situation",
+		"title": "faulty airlock door",
 		"description": "",
 	},
 	{
@@ -184,6 +180,98 @@ export default [{
 	},
 	{
 		"title": "cat stuck in a tree",
+		"description": "",
+	},
+	{
+		"title": "bad grades",
+		"description": "",
+	},
+	{
+		"title": "dirty dishes",
+		"description": "",
+	},
+	{
+		"title": "hole in the floor",
+		"description": "",
+	},
+	{
+		"title": "leaky hose",
+		"description": "",
+	},
+	{
+		"title": "scheduled two dates on the same night",
+		"description": "",
+	},
+	{
+		"title": "the crushing loneliness of being human",
+		"description": "",
+	},
+	{
+		"title": "your plant is dying",
+		"description": "",
+	},
+	{
+		"title": "your phone died and you need a ride home",
+		"description": "",
+	},
+	{
+		"title": "overly friendly coworker",
+		"description": "",
+	},
+	{
+		"title": "a tense family dinner",
+		"description": "",
+	},
+	{
+		"title": "dropped your keys in a storm drain",
+		"description": "",
+	},
+	{
+		"title": "your dog ran away",
+		"description": "",
+	},
+	{
+		"title": "someone is crowding your personal space",
+		"description": "",
+	},
+	{
+		"title": "broken wristwatch",
+		"description": "",
+	},
+	{
+		"title": "lost in the woods",
+		"description": "",
+	},
+	{
+		"title": "sinking cruise ship",
+		"description": "",
+	},
+	{
+		"title": "falling from a great height",
+		"description": "",
+	},
+	{
+		"title": "mother is in a bad mood",
+		"description": "",
+	},
+	{
+		"title": "your car door falls off",
+		"description": "",
+	},
+	{
+		"title": "very high student loans",
+		"description": "",
+	},
+	{
+		"title": "the light switch is still on but you're already in bed",
+		"description": "",
+	},
+	{
+		"title": "the drummer quits your band",
+		"description": "",
+	},
+	{
+		"title": "trapped under a fallen tree",
 		"description": "",
 	}
 ];
