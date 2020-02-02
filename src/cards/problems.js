@@ -131,7 +131,7 @@ export default [{
 		"description": "",
 	},
 	{
-		"title": "late to work",
+		"title": "being late to work",
 		"description": "",
 	},
 	{
@@ -239,7 +239,7 @@ export default [{
 		"description": "",
 	},
 	{
-		"title": "lost in the woods",
+		"title": "getting lost in the woods",
 		"description": "",
 	},
 	{
@@ -367,7 +367,7 @@ export default [{
 		"description": "",
 	},
 	{
-		"title": "no knife to cut the cake",
+		"title": "not haveing a knife to cut the cake",
 		"description": "",
 	},
 	{
