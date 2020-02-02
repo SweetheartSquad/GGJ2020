@@ -57,7 +57,7 @@ if(window.location.hash == "#print"){
 		card.style.width = "500px";
 		card.style.height = "700px";
 		document.body.appendChild(card, idx);
-		problemCards = problemCards.splice(idx);
+	 	problemCards.splice(idx, 1);
 	}
 }else{
 	var printButton = document.createElement("button");
@@ -76,3 +76,4 @@ if(window.location.hash == "#print"){
 	handButton.textContent = "Hand";
 	document.body.appendChild(handButton);
 }
+	
