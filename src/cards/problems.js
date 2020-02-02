@@ -207,7 +207,7 @@ export default [{
 		"description": "",
 	},
 	{
-		"title": "your plant is dying",
+		"title": "dying houseplant",
 		"description": "",
 	},
 	{
@@ -251,15 +251,15 @@ export default [{
 		"description": "",
 	},
 	{
-		"title": "mother is in a bad mood",
+		"title": "your parent is in a bad mood",
 		"description": "",
 	},
 	{
-		"title": "your car door falls off",
+		"title": "front door is frozen shut",
 		"description": "",
 	},
 	{
-		"title": "very high student loans",
+		"title": "high student loans",
 		"description": "",
 	},
 	{
@@ -272,6 +272,130 @@ export default [{
 	},
 	{
 		"title": "trapped under a fallen tree",
+		"description": "",
+	},
+	{
+		"title": "forgot your spouse's birthday",
+		"description": "",
+	},
+	{
+		"title": "didn't bring a gift for the party host",
+		"description": "",
+	},
+	{
+		"title": "cork stuck in wine bottle",
+		"description": "",
+	},
+	{
+		"title": "burnt dinner",
+		"description": "",
+	},
+	{
+		"title": "stuffy nose",
+		"description": "",
+	},
+	{
+		"title": "crooked painting",
+		"description": "",
+	},
+	{
+		"title": "submarine is filling with water",
+		"description": "",
+	},
+	{
+		"title": "handcuffed to a radiator",
+		"description": "",
+	},
+	{
+		"title": "locked in your bathroom",
+		"description": "",
+	},
+	{
+		"title": "depression",
+		"description": "",
+	},
+	{
+		"title": "no time to go to the gym",
+		"description": "",
+	},
+	{
+		"title": "broken stove",
+		"description": "",
+	},
+	{
+		"title": "broken ceiling light",
+		"description": "",
+	},
+	{
+		"title": "you are on fire",
+		"description": "",
+	},
+	{
+		"title": "broken ice cream machine",
+		"description": "",
+	},
+	{
+		"title": "naked in public",
+		"description": "",
+	},
+	{
+		"title": "broken purse strap",
+		"description": "",
+	},
+	{
+		"title": "broken shoe heel",
+		"description": "",
+	},
+	{
+		"title": "your front door is locked",
+		"description": "",
+	},
+	{
+		"title": "stuck on the roof",
+		"description": "",
+	},
+	{
+		"title": "stuck in a deep hole",
+		"description": "",
+	},
+	{
+		"title": "feelings of inadequacy",
+		"description": "",
+	},
+	{
+		"title": "a boring party",
+		"description": "",
+	},
+	{
+		"title": "no knife to cut the cake",
+		"description": "",
+	},
+	{
+		"title": "really big pile of laundry",
+		"description": "",
+	},
+	{
+		"title": "writer's block",
+		"description": "",
+	},
+	{
+		"title": "can't get to sleep",
+		"description": "",
+	},
+	{
+		"title": "bacne",
+		"description": "acne that's on your back",
+	},
+	{
+		"title": "you need an haircut, right now",
+		"description": "",
+	},
+	{
+		"title": "tangled headphones",
+		"description": "",
+	},
+	{
+		"title": "spilled milk",
 		"description": "",
 	}
 ];
