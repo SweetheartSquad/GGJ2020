@@ -65,6 +65,16 @@ body{
     font-family: 'Rockwell';
 }
 
+.rule{
+    margin: 0.1in;
+    display: block;
+}
+
+.rule::before{
+    display: block;
+    content: "";
+}
+
 .card-description::after {
     content: '';
     display: block;
