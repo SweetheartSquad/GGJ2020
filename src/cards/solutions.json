@@ -106,7 +106,7 @@
 	},
 	{
 		"title": "Jaws of life",
-		"description": "Like a metal pair of big beefy thighs.",
+		"description": "Designed after Superman's big beefy thighs, this tool is used to extract people from wrecked cars.",
 		"img": ""
 	},
 	{
@@ -208,5 +208,170 @@
 		"title": "Awl",
 		"description": "A pointed tool for boring holes. Not for use with exciting holes.",
 		"img": ""
-	}
+	},
+  {
+		"title": "Egg roll",
+		"description": "Comes free with a Combo 2.",
+		"img": ""
+	},
+  {
+		"title": "Tire iron",
+		"description": "Mostly good for tires and murders in the 1950s.",
+		"img": ""
+	},
+  {
+		"title": "Ice pick",
+		"description": "When you absolutey, positively need to f*** up some ice.",
+		"img": ""
+	},
+  {
+		"title": "Chopsticks",
+		"description": "Good for picking stuff up.",
+		"img": ""
+	},
+  {
+		"title": "Self-help book",
+		"description": "If you can't fix yourself, how in the hell are you going to fix something else?",
+		"img": ""
+	},
+  {
+		"title": "Hot soup",
+		"description": "It's good for the soul.",
+		"img": ""
+	},
+  {
+		"title": "Trowel",
+		"description": "A really small shovel.",
+		"img": ""
+	},
+  {
+		"title": "Axe",
+		"description": "For hacking and whacking and thwacking.",
+		"img": ""
+	},
+  {
+		"title": "Hoe",
+		"description": "Hoe money, hoe problems.",
+		"img": ""
+	},
+  {
+		"title": "Shovel",
+		"description": "A really big trowel.",
+		"img": ""
+	},
+  {
+		"title": "Foot-powered dental polisher",
+		"description": "The better way to clean your teeth with your feet.",
+		"img": ""
+	},
+  {
+    "title": "Bellows",
+    "description": "A hand-powered wind machine.",
+    "img": ""
+  },
+  {
+    "title": "Blacksmith tongs",
+    "description": "Don't use these in your salad. Or do. I'm not your mom.",
+    "img": ""
+  },
+  {
+    "title": "Anvil",
+    "description": "Used to hammer out metal tools, or to drop on roadrunners.",
+    "img": ""
+  },
+  {
+    "title": "Needle and thread",
+    "description": "It's sew easy to use!",
+    "img": ""
+  },
+  {
+    "title": "Hand plane",
+    "description": "Like a cheese slicer, but for wood.",
+    "img": ""
+  },
+  {
+    "title": "Mindfulness & meditation",
+    "description": "You'd better CHILL OUT, mister. RIGHT NOW.",
+    "img": ""
+  },
+  {
+    "title": "Ketogenic diet",
+    "description": "A low-carb diet that sends your body into emergency lockdown.",
+    "img": ""
+  },
+  {
+    "title": "An eye for fashion",
+    "description": "You know how to put together a killer outfit.",
+    "img": ""
+  },
+  {
+    "title": "A thorough knowledge of cryptozoology",
+    "description": "You know about all manner of mythical creatures, from Bigfoot to the Loch Ness Monster.",
+    "img": ""
+  },
+  {
+    "title": "Getaway car",
+    "description": "Sometimes it's better to just run away from your problems.",
+    "img": ""
+  },
+  {
+    "title": "Elbow grease",
+    "description": "I think it's a metaphor. Otherwise it's just gross.",
+    "img": ""
+  },
+  {
+    "title": "A tablecloth",
+    "description": "An indoor picnic blanket.",
+    "img": ""
+  },
+  {
+    "title": "Alcohol",
+    "description": "A problem solver, but also a problem causer.",
+    "img": ""
+  },
+  {
+    "title": "Leather belt",
+    "description": "A fashionable way to keep your pants on.",
+    "img": ""
+  },
+  {
+    "title": "Bag of candy",
+    "description": "It's big! There's probably every type of candy in there.",
+    "img": ""
+  },
+  {
+    "title": "Can opener",
+    "description": "Opens cans. What did you think it does?",
+    "img": ""
+  },
+  {
+    "title": "Grappling hook",
+    "description": "Used for climbing buildings and crossing canyons.",
+    "img": ""
+  },
+  {
+    "title": "Can of soda",
+    "description": "A sugary, fizzy beverage.",
+    "img": ""
+  },
+  {
+    "title": "Rich parents",
+    "description": "They can get you out of any situation. Except maybe a communist revolution.",
+    "img": ""
+  },
+  {
+    "title": "A significant other",
+    "description": "I mean, you're basically just keeping them around because they're useful.",
+    "img": ""
+  },
+  {
+    "title": "Fire extinguisher",
+    "description": "The light in your eyes went out a long time ago.",
+    "img": ""
+  },
+  {
+    "title": "Pressure cooker",
+    "description": "It only explodes SOME of the time.",
+    "img": ""
+  }
 ]

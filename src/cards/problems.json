@@ -1,7 +1,7 @@
 [
 	{
 		"title": "car with a blown engine",
-		"description": "Bad bad bad",
+		"description": "",
 		"img": ""
 	},
 	{
@@ -25,7 +25,7 @@
 		"img": ""
 	},
 	{
-		"title": "boredome",
+		"title": "boredom",
 		"description": "",
 		"img": ""
 	},
@@ -156,6 +156,21 @@
 	},
 	{
 		"title": "diarrhea",
+		"description": "",
+		"img": ""
+	},
+	{
+		"title": "terrible first date",
+		"description": "",
+		"img": ""
+	},
+	{
+		"title": "late to work",
+		"description": "",
+		"img": ""
+	},
+	{
+		"title": "small kitchen fire",
 		"description": "",
 		"img": ""
 	}
