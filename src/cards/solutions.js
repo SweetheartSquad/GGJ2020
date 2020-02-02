@@ -240,7 +240,7 @@ export default [{
 	},
 	{
 		"title": "An Eye for Fashion",
-		"description": "You know how to put together a killer outfit."
+		"description": "A killer outfit can solve any problem."
 	},
 	{
 		"title": "A Thorough Knowledge of Cryptozoology",
@@ -292,7 +292,7 @@ export default [{
 	},
 	{
 		"title": "Fire Extinguisher",
-		"description": "The light in your eyes went out a long time ago."
+		"description": "The spark in your eyes went out a long time ago."
 	},
 	{
 		"title": "Pressure Cooker",
@@ -316,15 +316,15 @@ export default [{
 	},
 	{
 		"title": "Knee Brace",
-		"description": "Helps strengthen your knee. If you're a human, anyway."
+		"description": "Helps strengthen your knee, if not your resolve."
 	},
 	{
 		"title": "Crowbar",
-		"description": "Good for opening crates and skulls."
+		"description": "Good for opening crates... and skulls."
 	},
 	{
 		"title": "Drone",
-		"description": "A small remote-controlled hobby aircraft."
+		"description": "A small remote-controlled hobby aircraft that might cause a national security crisis."
 	},
 	{
 		"title": "Tinder",
@@ -348,7 +348,7 @@ export default [{
 	},
 	{
 		"title": "Garlic Press",
-		"description": "Turns garlic pieces into smaller garlic pieces"
+		"description": "Turns garlic pieces into smaller garlic pieces."
 	},
 	{
 		"title": "Mason Jar",
@@ -364,7 +364,7 @@ export default [{
 	},
 	{
 		"title": "Folding Chair",
-		"description": "Sit down anywhere."
+		"description": "Sit down, anywhere!"
 	},
 	{
 		"title": "A Good Night's Sleep",
