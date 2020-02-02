@@ -12,11 +12,11 @@ export default [{
 	},
 	{
 		"title": "Pneumatic drill",
-		"description": "Not necessarily pneumatic. Also known as a jackhammer or a kango (not too be confused with roos)"
+		"description": "Not necessarily pneumatic. Also known as a jackhammer or a kango (not too be confused with roos)."
 	},
 	{
 		"title": "Chainsaw",
-		"description": "Originally concieved to cut through pelvic bones during childbirth. Turns out they can cut through a lot."
+		"description": "Originally conceived to cut through pelvic bones during childbirth. Turns out they can cut through a lot."
 	},
 	{
 		"title": "Flint and Steel",
@@ -56,15 +56,15 @@ export default [{
 	},
 	{
 		"title": "A bottle of quality water-based lubricant",
-		"description": "What it says on the tin. Er, bottle."
+		"description": "What it says on the tin.\nEr, bottle."
 	},
 	{
 		"title": "Grindr",
-		"description": "Get it done, quick and dirty."
+		"description": "Find tools in your area in need of a little friction."
 	},
 	{
 		"title": "Teeth",
-		"description": "TEETH, TEETH, TEETH, TEETH...!"
+		"description": "TEETH,\nTEETH,\nTEETH,\nTEETH...!"
 	},
 	{
 		"title": "Big Strong Muscles",
@@ -124,7 +124,7 @@ export default [{
 	},
 	{
 		"title": "Conflict Resolution Skills",
-		"description": ""
+		"description": "Have you tried talking at your problems?"
 	},
 	{
 		"title": "CPR Certification",
