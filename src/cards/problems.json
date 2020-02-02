@@ -30,12 +30,12 @@
 		"img": ""
 	},
 	{
-		"title": "relationship",
+		"title": "a relationship",
 		"description": "",
 		"img": ""
 	},
 	{
-		"title": "life",
+		"title": "your life",
 		"description": "",
 		"img": ""
 	},
@@ -164,19 +164,59 @@
 		"description": "",
 		"img": ""
 	},
+  {
+		"title": "creaky stairs",
+		"description": "",
+		"img": ""
+	},
 	{
 		"title": "late to work",
 		"description": "",
 		"img": ""
 	},
+  {
+		"title": "bruised ego",
+		"description": "",
+		"img": ""
+	},
 	{
-		"title": "small kitchen fire",
+		"title": "a loose tooth",
+		"description": "",
+		"img": ""
+	},
+	{
+		"title": "splinter in the finger",
+		"description": "",
+		"img": ""
+	},
+	{
+		"title": "a loss of passion",
+		"description": "",
+		"img": ""
+	},
+	{
+		"title": "bloody nose",
+		"description": "",
+		"img": ""
+	},
+	{
+		"title": "stinky feet",
+		"description": "",
+		"img": ""
+	},
+	{
+		"title": "alien invasion",
 		"description": "",
 		"img": ""
 	},
   {
-		"title": "jay-z's 99th problem",
-		"description": "Well, we know what it ain't.",
-		"img": ""
-	}
+    "title": "small kitchen fire",
+    "description": "",
+    "img": ""
+  },
+  {
+    "title": "jay-z's 99th problem",
+    "description": "Well, we know what it ain't.",
+    "img": ""
+  }
 ]

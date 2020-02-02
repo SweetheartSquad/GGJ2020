@@ -29,20 +29,30 @@ body{
 }
 
 .card-title{
+    position: relative;
     font-size: 150%;
     color: var(--white);
-    text-shadow:
-    -1px 1px 0 var(--black),
-    1px 1px 0 var(--black),
-    -1px -1px 0 var(--black),
-    1px -1px 0 var(--black),
-    -2px 2px 0 var(--black),
-    2px 2px 0 var(--black),
-    -2px -2px 0 var(--black),
-    2px -2px 0 var(--black);
     font-family: 'Municipal';
     text-transform: lowercase;
     margin: 0.5rem;
+
+}
+
+.card-title::before {
+    color: var(--black);
+    position: absolute;
+    top: 0;
+    left: 0;
+    content: attr(data-title);
+    -webkit-text-stroke: 0.5rem var(--black);
+}
+
+.card-title::after {
+    color: var(--white);
+    position: absolute;
+    top: 0;
+    left: 0;
+    content: attr(data-title);
 }
 
 .card-description{
@@ -50,8 +60,8 @@ body{
     position: relative;
     padding: 0.5rem;
     margin-top: auto;
-    background: var(--black);
-    color: var(--white);
+    background: var(--white);
+    color: var(--black);
     font-family: 'Rockwell';
 }
 
