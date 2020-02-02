@@ -19,7 +19,7 @@ export default [{
 		"description": "Originally concieved to cut through pelvic bones during childbirth. Turns out they can cut through a lot."
 	},
 	{
-		"title": "Flint and steel",
+		"title": "Flint and Steel",
 		"description": "I am the firestarter."
 	},
 	{
@@ -35,11 +35,11 @@ export default [{
 		"description": "Forged in 1372, this bad boy can cut through a dragon's scaly hide like hot churned butter from the local farm."
 	},
 	{
-		"title": "A bit of string",
+		"title": "A Bit of String",
 		"description": "Twine, thread, yarn; you're not really sure. Probably found it in your pocket."
 	},
 	{
-		"title": "A couple of matches",
+		"title": "A Couple of Matches",
 		"description": "They can burn twice as bright, or twice as long."
 	},
 	{
@@ -47,11 +47,11 @@ export default [{
 		"description": "I didn't come here to make friends, I came here to chew bubblegum."
 	},
 	{
-		"title": "Duct tape",
+		"title": "Duct Tape",
 		"description": "Sticky and shiny."
 	},
 	{
-		"title": "A shiny rock",
+		"title": "A Shiny Rock",
 		"description": "Ooh, pretty!"
 	},
 	{
@@ -67,7 +67,7 @@ export default [{
 		"description": "TEETH, TEETH, TEETH, TEETH...!"
 	},
 	{
-		"title": "Big strong muscles",
+		"title": "Big Strong Muscles",
 		"description": "Maybe the real solution was inside you all along?"
 	},
 	{
@@ -75,7 +75,7 @@ export default [{
 		"description": "Works like stitches in a pinch."
 	},
 	{
-		"title": "Hot glue gun",
+		"title": "Hot Glue Gun",
 		"description": "Hot and sticky. Just squeeze the trigger."
 	},
 	{
@@ -83,55 +83,55 @@ export default [{
 		"description": "A big circle that keeps you alive."
 	},
 	{
-		"title": "Jaws of life",
+		"title": "Jaws of Life",
 		"description": "Designed after Superman's big beefy thighs, this tool is used to extract people from wrecked cars."
 	},
 	{
-		"title": "50ft rope",
+		"title": "50ft Rope",
 		"description": "Better than a 49ft rope."
 	},
 	{
-		"title": "Laser pointer",
+		"title": "Laser Pointer",
 		"description": "Originally engineered as a military weapon, this laser is now found in found in offices"
 	},
 	{
-		"title": "Plastic explosive",
+		"title": "Plastic Explosives",
 		"description": "One of Barbie's more controversial accessories."
 	},
 	{
-		"title": "A winning smile",
+		"title": "A Winning Smile",
 		"description": "Four out of five dentists recommend it."
 	},
 	{
-		"title": "The map to the treasure",
+		"title": "The Map to The Treasure",
 		"description": "It appears to be stained with grog."
 	},
 	{
-		"title": "A contracter",
-		"description": "Plumbling, construction, whatever you need."
+		"title": "A Contractor",
+		"description": "Plumbing, construction, whatever you need."
 	},
 	{
-		"title": "Common sense",
+		"title": "Common Sense",
 		"description": "No description needed"
 	},
 	{
-		"title": "A prize-winning pig",
+		"title": "A Prize-winning Pig",
 		"description": "And the Grammy goes to..."
 	},
 	{
-		"title": "A flock of Canadian geese",
+		"title": "A Flock of Canadian Geese",
 		"description": "'Honk' means 'I love you' in Goose."
 	},
 	{
-		"title": "Conflict resolution skills",
-		"description": "."
+		"title": "Conflict Resolution Skills",
+		"description": ""
 	},
 	{
 		"title": "CPR certification",
 		"description": "The legal way to punch someone in the chest."
 	},
 	{
-		"title": "Can-do attitude",
+		"title": "Can-do Attitude",
 		"description": "Better than a can't-do attitude, am I right??"
 	},
 	{
@@ -143,11 +143,11 @@ export default [{
 		"description": "It's expensive, but it works. Sometimes."
 	},
 	{
-		"title": "Key to the city",
+		"title": "Key to the City",
 		"description": "This is really going to open doors for you."
 	},
 	{
-		"title": "A bird's eye view",
+		"title": "A Bird's Eye View",
 		"description": "Sometimes you just need a little distance."
 	},
 	{
@@ -159,7 +159,7 @@ export default [{
 		"description": "It's a drilling device used for making holes in wood or in the ground. It usually includes a rotating helical screw blade called a 'flighting' to act as a screw conveyor... Hello? Are you still there?"
 	},
 	{
-		"title": "Wire stripper",
+		"title": "Wire Stripper",
 		"description": "Good for stripping insulation off of wires. Not so good for other types of stripping."
 	},
 	{
