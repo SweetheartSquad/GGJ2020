@@ -17,7 +17,7 @@
 	{
 		"title": "Pneumatic drill",
 		"description": "Not necessarily pneumatic. Also known as a jackhammer or a kango (not too be confused with roos)",
-		"img": "pneumatic drill.png"
+		"img": ""
 	},
 	{
 		"title": "Chainsaw",
@@ -42,7 +42,7 @@
 	{
 		"title": "A Cool Sword",
 		"description": "Forged in 1372, this bad boy can cut through a dragon's scaly hide like hot churned butter from the local farm.",
-		"img": "sword.png"
+		"img": ""
 	},
 	{
 		"title": "A bit of string",
@@ -97,7 +97,7 @@
 	{
 		"title": "Hot glue gun",
 		"description": "Hot and sticky. Just squeeze the trigger.",
-		"img": "hot glue gun.png"
+		"img": ""
 	},
 	{
 		"title": "Parachute",
@@ -135,9 +135,9 @@
 		"img": ""
 	},
 	{
-		"title": "A contractor",
+		"title": "A contracter",
 		"description": "Plumbling, construction, whatever you need.",
-		"img": "contractor.png"
+		"img": ""
 	},
 	{
 		"title": "Common sense",
@@ -177,12 +177,12 @@
 	{
 		"title": "A Macbook Pro",
 		"description": "It's expensive, but it works. Sometimes.",
-		"img": "macbook pro.png"
+		"img": ""
 	},
 	{
 		"title": "Key to the city",
 		"description": "This is really going to open doors for you.",
-		"img": "key to the city.png"
+		"img": ""
 	},
 	{
 		"title": "A bird's eye view",
@@ -372,6 +372,41 @@
   {
     "title": "Pressure cooker",
     "description": "It only explodes SOME of the time.",
+    "img": ""
+  },
+  {
+    "title": "A phone charger",
+    "description": "And it's got the right type of plug!",
+    "img": ""
+  },
+  {
+    "title": "Lifesaver",
+    "description": "The plastic ring, not the candy.",
+    "img": ""
+  },
+  {
+    "title": "A crisp dollar bill",
+    "description": "You just printed it fresh this morning.",
+    "img": ""
+  },
+  {
+    "title": "Diplomatic immunity",
+    "description": "The laws of this country don't apply to you anymore.",
+    "img": ""
+  },
+  {
+    "title": "Knee brace",
+    "description": "Helps strengthen your knee. If you're a human, anyway.",
+    "img": ""
+  },
+  {
+    "title": "Crowbar",
+    "description": "Good for opening crates and skulls.",
+    "img": ""
+  },
+  {
+    "title": "Drone",
+    "description": "A small remote-controlled hobby aircraft.",
     "img": ""
   }
 ]
