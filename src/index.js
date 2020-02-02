@@ -5,7 +5,7 @@ import { problems, solutions } from './cards';
 
 function makeCard(cardDef, idx) {
 	const card = document.createElement('div');
-	card.className = 'card';
+	card.className = `card ${cardDef.type}`;
 	card.style.backgroundImage = `url("./images/${cardDef.title}.png")`;
 
 	const title = document.createElement('div');
@@ -32,7 +32,7 @@ function makePage() {
 }
 
 var problemCards = [...solutions.map(makeCard)]; 
-const cards = [...problemCards, ...problems.map(makeCard)];
+const cards = [...problemCards, ...problems.map(card => ({...card, type: 'problem', description: '' })).map(makeCard)];
 
 const cardsPerPage = 9;
 const pages = new Array(Math.ceil(cards.length / 9)).fill(0).map((_, idx) => {
