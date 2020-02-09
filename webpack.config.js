@@ -1,3 +1,4 @@
+const webpack = require('webpack');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const {
 	CleanWebpackPlugin
@@ -14,6 +15,9 @@ module.exports = {
 		new HtmlWebpackPlugin({
 			title: 'Development',
 		}),
+		new webpack.DefinePlugin({
+			PACK: JSON.stringify(process.env.PACK),
+		})
 	],
 	module: {
 		rules: [{

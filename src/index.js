@@ -1,11 +1,7 @@
 import "normalize.css";
 import "./index.css";
 
-import {
-    problems,
-    solutions,
-    rules
-} from "./cards";
+import packs from "./cards";
 
 function toChunks(arr, chunkSize) {
     return new Array(Math.ceil(arr.length / chunkSize)).fill(0).map((_, idx) => {
@@ -71,15 +67,20 @@ function makePage() {
 }
 
 function makeCards() {
+    const {
+        rules = [],
+        solutions = [],
+        problems = [],
+    } = packs[PACK];
     return {
         rules: makeRulesCards(rules),
         solutions: solutions.map(card => makeCard({
             ...card,
-            type: "solution"
+            type: `${PACK} solution`
         })),
         problems: problems.map(card => makeCard({
             ...card,
-            type: "problem",
+            type: `${PACK} problem`,
             description: ""
         })),
     };
@@ -90,26 +91,30 @@ function makePrintableDocument() {
     const cards = [];
 
     const {
-        rules: ruleCards,
-        solutions: solutionCards,
-        problems: problemCards,
+        rules: ruleCards = [],
+        solutions: solutionCards = [],
+        problems: problemCards = [],
     } = makeCards();
 
     function fillPage() {
-        cards.push(...new Array(cardsPerPage - cards.length % cardsPerPage).fill(0).map(() => makeCard({})));
+        const toFill = cards.length % cardsPerPage;
+        if (toFill > 0) {
+            cards.push(...new Array(cardsPerPage - toFill).fill(0).map(() => makeCard({})));
+        }
     }
     cards.push(...ruleCards);
     fillPage();
     cards.push(...solutionCards);
     fillPage();
     cards.push(...problemCards);
+    fillPage();
     const pages = toChunks(cards, cardsPerPage);
 
     pages.forEach(page => {
         const pageEl = makePage();
         page.forEach(card => pageEl.appendChild(card));
         document.body.appendChild(pageEl);
-        document.body.appendChild(makeBgPage(page[0].className.replace('card ', '')));
+        document.body.appendChild(makeBgPage(page[0].classList[page[0].classList.length - 1]));
     });
 }
 
