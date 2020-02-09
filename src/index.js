@@ -87,40 +87,4 @@ function printPage() {
     });
 }
 
-function handPage() {
-    let solutionCards = [...solutions.map(makeCard)];
-    for (let i = 0; i < 5; i++) {
-        let idx = Math.floor(Math.random() * solutionCards.length);
-        var card = solutionCards[idx];
-        card.style.width = "500px";
-        card.style.height = "700px";
-        document.body.appendChild(card, idx);
-        solutionCards.splice(idx, 1);
-    }
-}
-
-function landingPage() {
-    var printButton = document.createElement("button");
-    printButton.onclick = () => {
-        window.location.hash = "#print";
-        window.location.reload();
-    };
-    printButton.textContent = "Print";
-    document.body.appendChild(printButton);
-
-    var handButton = document.createElement("button");
-    handButton.onclick = () => {
-        window.location.hash = "#hand";
-        window.location.reload();
-    };
-    handButton.textContent = "Hand";
-    document.body.appendChild(handButton);
-}
-
-if (window.location.hash == "#print") {
-    printPage();
-} else if (window.location.hash == "#hand") {
-    handPage();
-} else {
-    landingPage();
-}
+printPage();
