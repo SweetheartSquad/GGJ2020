@@ -97,7 +97,7 @@ export default [{
 }, {
 	title: "a recliner stuck in one position"
 }, {
-	title: "really bad BO"
+	title: "really bad B.O."
 }, {
 	title: "a printer that won't print"
 }];
