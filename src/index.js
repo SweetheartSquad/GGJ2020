@@ -88,6 +88,9 @@ function printPage() {
         return cards.slice(begin, begin + cardsPerPage);
     });
 
+    // fill last page with blank cards
+    pages[pages.length-1].push(...new Array(cardsPerPage - pages[pages.length-1].length).fill(0).map(() => makeCard({})));
+
     pages.forEach(page => {
         const pageEl = makePage();
         page.forEach(card => pageEl.appendChild(card));

@@ -397,13 +397,5 @@ export default [{
   {
 		"title": "spilled milk",
 		"description": "",
-	},
-  {
-		"title": " ",
-		"description": " "
-	},
-  {
-		"title": " ",
-		"description": " "
 	}
 ];
