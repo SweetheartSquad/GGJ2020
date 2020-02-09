@@ -8,20 +8,18 @@ function makeCard(cardDef) {
     card.className = `card ${cardDef.type}`;
     card.style.backgroundImage = `url("./images/${cardDef.title}.png")`;
 
-    const title = document.createElement("div");
-    title.className = "card-title";
-    title.textContent = cardDef.title;
-    title.dataset.title = cardDef.title;
-    card.appendChild(title);
+    if (cardDef.title) {
+        const title = document.createElement("div");
+        title.className = "card-title";
+        title.textContent = cardDef.title;
+        title.dataset.title = cardDef.title;
+        card.appendChild(title);
+    }
 
     if (cardDef.description) {
         const description = document.createElement("div");
         description.textContent = cardDef.description;
         description.className = "card-description";
-        // check if it's a blank card
-        if (description.textContent == " ") {
-          description.className = "card-description-blank";
-        }
         card.appendChild(description);
     }
 
