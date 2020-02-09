@@ -18,7 +18,7 @@ function makeCard({
     const card = document.createElement("div");
     card.className = `card ${type}`;
 
-    if (type === "solution") {
+    if (type.includes("solution")) {
         card.style.backgroundImage = `url("./images/${title}.png")`;
     }
 
