@@ -401,13 +401,5 @@ export default [{
 	{
 		"title": "Pepto-Bismol",
 		"description": "A pink drink that's good for what ails ya."
-	},
-  {
-		"title": " ",
-		"description": " "
-	},
-  {
-		"title": " ",
-		"description": " "
 	}
 ];
