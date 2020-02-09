@@ -119,10 +119,6 @@ export default [{
 		"description": "",
 	},
 	{
-		"title": "diarrhea",
-		"description": "",
-	},
-	{
 		"title": "a terrible first date",
 		"description": "",
 	},
