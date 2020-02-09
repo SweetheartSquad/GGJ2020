@@ -99,6 +99,23 @@ body{
     height: 11in;
 }
 
+.bg {
+    display: block;
+    position: relative;
+    overflow: hidden;
+}
+
+.bg > div {
+    width: 100%;
+    height: 100%;
+    word-break: break-all;
+    font-size: 150%;
+    color: var(--black);
+    font-family: 'Municipal';
+    text-transform: uppercase;
+    transform: scale(2) rotate(-45deg);
+}
+
 @page {
     margin: 0;
 }

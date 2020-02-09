@@ -55,36 +55,62 @@ function makeRulesCards(rules) {
     }));
 }
 
+function makeBgPage(type) {
+    const page = makePage();
+    page.classList.add('bg');
+    const textEl = document.createElement('div');
+    textEl.textContent = `${type}\xa0\xa0`.repeat(500);
+    page.appendChild(textEl);
+    return page;
+}
+
 function makePage() {
     const page = document.createElement("div");
     page.className = "page";
     return page;
 }
 
-function printPage() {
-    const cards = [
-        ...makeRulesCards(rules),
-        ...solutions.map(card => makeCard({
+function makeCards() {
+    return {
+        rules: makeRulesCards(rules),
+        solutions: solutions.map(card => makeCard({
             ...card,
             type: "solution"
         })),
-        ...problems.map(card => makeCard({
+        problems: problems.map(card => makeCard({
             ...card,
             type: "problem",
             description: ""
-        }))
-    ];
-    const cardsPerPage = 9;
-    const pages = toChunks(cards, cardsPerPage);
+        })),
+    };
+}
 
-    // fill last page with blank cards
-    pages[pages.length - 1].push(...new Array(cardsPerPage - pages[pages.length - 1].length).fill(0).map(() => makeCard({})));
+function makePrintableDocument() {
+    const cardsPerPage = 9;
+    const cards = [];
+
+    const {
+        rules: ruleCards,
+        solutions: solutionCards,
+        problems: problemCards,
+    } = makeCards();
+
+    function fillPage() {
+        cards.push(...new Array(cardsPerPage - cards.length % cardsPerPage).fill(0).map(() => makeCard({})));
+    }
+    cards.push(...ruleCards);
+    fillPage();
+    cards.push(...solutionCards);
+    fillPage();
+    cards.push(...problemCards);
+    const pages = toChunks(cards, cardsPerPage);
 
     pages.forEach(page => {
         const pageEl = makePage();
         page.forEach(card => pageEl.appendChild(card));
         document.body.appendChild(pageEl);
+        document.body.appendChild(makeBgPage(page[0].className.replace('card ', '')));
     });
 }
 
-printPage();
+makePrintableDocument();
