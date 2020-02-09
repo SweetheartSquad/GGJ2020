@@ -2,6 +2,12 @@ import "normalize.css";
 import "./index.css";
 
 import { problems, solutions, rules } from "./cards";
+function toChunks(arr, chunkSize) {
+    return new Array(Math.ceil(arr.length / chunkSize)).fill(0).map((_, idx) => {
+        const begin = idx * chunkSize;
+        return arr.slice(begin, begin + chunkSize);
+    });
+}
 
 function makeCard(cardDef) {
     const card = document.createElement("div");
@@ -26,46 +32,15 @@ function makeCard(cardDef) {
     return card;
 }
 
-function makeRulesCards(rules){
+function makeRulesCards(rules) {
+    const rulesPerCard = 4;
+    const chunks = toChunks(rules, rulesPerCard);
 
-    let chunckedRules = [];
-    let currentChunck = [];
-
-    for(let i=0; i < rules.length; i++){
-        currentChunck.push(rules[i]);
-        if(currentChunck.length == 4 || i == rules.length - 1){
-            chunckedRules.push(currentChunck);
-            currentChunck = [];
-        }
-    }
-
-    let cards = [];
-
-    let ruleIndex = 1;
-    let chunckIndex = 1;
-    for(let rulesChunk of chunckedRules){
-        const card = document.createElement("div");
-        card.className = `card rules description`;
-
-        const title = document.createElement("div");
-        title.className = "card-title";
-        title.textContent = `Rules ${chunckIndex}/${chunckedRules.length}`;
-        title.dataset.title = `Rules ${chunckIndex}/${chunckedRules.length}`;
-        card.appendChild(title);
-
-        const details = document.createElement("div");
-        for(let rule of rulesChunk){
-            const ruleElem = document.createElement("span");
-            ruleElem.className = "rule";
-            ruleElem.innerHTML = `<b>${ruleIndex}.</b> ${rule}`;
-            details.appendChild(ruleElem);
-            ruleIndex += 1;
-        }
-        card.appendChild(details);
-        cards.push(card);
-        chunckIndex += 1;
-    }
-    return cards;
+    return chunks.map((chunk, pageIdx) => makeCard({
+        title: `Rules ${pageIdx + 1}/${chunks.length}`,
+        description: chunk.map((rule, ruleIdx) => `${pageIdx*rulesPerCard + ruleIdx + 1}. ${rule}`).join('\n\n'),
+        type: 'rules',
+    }));
 }
 
 function makePage() {

@@ -65,14 +65,9 @@ body{
     font-family: 'Rockwell';
 }
 
-.rule{
-    margin: 0.1in;
-    display: block;
-}
-
-.rule::before{
-    display: block;
-    content: "";
+.rules .card-description{
+    min-height: 75%;
+    font-size: 80%;
 }
 
 .card-description::after {
