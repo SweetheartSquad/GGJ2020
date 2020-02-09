@@ -1,24 +1,36 @@
 @font-face {
-    font-family: "Municipal";
-    src: url("/Municipal.ttf") format("ttf");
+    font-family: 'Rockwell';
+    src:
+        url('Rockwell.ttf') format('ttf'),
+        url('Rockwell.woff2') format('woff2'),
+        url('Rockwell.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
 
 @font-face {
-    font-family: "Rockwell";
-    src: url("/ROCK.TTF") format("ttf");
+    font-family: 'Municipal';
+    src:
+        url('Municipal.ttf') format('ttf'),
+        url('Municipal.woff2') format('woff2'),
+        url('Municipal.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
+
+
 
 :root {
     --black: black;
     --white: white;
 }
 
-body{
+body {
     background-color: #000000;
     font-size: 16px;
 }
 
-.card{
+.card {
     position: relative;
     margin: 1px;
     border: solid 1px var(--black);
@@ -29,7 +41,7 @@ body{
     background-position: center;
 }
 
-.card-title{
+.card-title {
     position: relative;
     font-size: 150%;
     color: var(--white);
@@ -56,7 +68,7 @@ body{
     content: attr(data-title);
 }
 
-.card-description{
+.card-description {
     white-space: pre-wrap;
     position: relative;
     padding: 0.5rem;
@@ -66,7 +78,7 @@ body{
     font-family: 'Rockwell';
 }
 
-.rules .card-description{
+.rules .card-description {
     min-height: 75%;
     font-size: 80%;
 }
@@ -91,7 +103,7 @@ body{
     text-align: center;
 }
 
-.page{
+.page {
     display: grid;
     grid-template-columns: repeat(auto-fill, 2.5in);
     grid-auto-rows: 3.5in;
@@ -105,7 +117,7 @@ body{
     overflow: hidden;
 }
 
-.bg > div {
+.bg>div {
     width: 100%;
     height: 100%;
     word-break: break-all;
